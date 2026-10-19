@@ -1,0 +1,443 @@
+ERROR: Could not create directory: '/Users/kafufu/Library/Application Support/THORNBOUND-QuickJS-Lab'.
+   at: make_dir_recursive (core/io/dir_access.cpp:179)
+ERROR: Error attempting to create data dir: /Users/kafufu/Library/Application Support/THORNBOUND-QuickJS-Lab.
+   at: ensure_user_data_dir (core/os/os.cpp:442)
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+ERROR: Condition "ret != noErr" is true. Returning: ""
+   at: get_system_ca_certificates (platform/macos/os_macos.mm:1035)
+ERROR: Could not open 'user://' directory: 'user://'.
+   at: _get_and_create_snapshot_storage_dir (modules/objectdb_profiler/editor/objectdb_profiler_panel.cpp:157)
+[   0% ] [90m[1mfirst_scan_filesystem[22m | Started Project initialization (5 steps)[39m[0m
+[   0% ] [90m[1mfirst_scan_filesystem[22m | Scanning file structure...[39m[0m
+[  16% ] [90m[1mfirst_scan_filesystem[22m | Loading global class names...[39m[0m
+[  33% ] [90m[1mfirst_scan_filesystem[22m | Verifying GDExtensions...[39m[0m
+[  50% ] [90m[1mfirst_scan_filesystem[22m | Creating autoload scripts...[39m[0m
+[  66% ] [90m[1mfirst_scan_filesystem[22m | Initializing plugins...[39m[0m
+[  83% ] [90m[1mfirst_scan_filesystem[22m | Starting file scan...[39m[0m
+[92m[ DONE ][39m [1mfirst_scan_filesystem[22m
+[0m
+[   0% ] [90m[1mupdate_scripts_classes[22m | Started Registering global classes... (24 steps)[39m[0m
+[   0% ] [90m[1mupdate_scripts_classes[22m | LPCAnimatedSprite2D[39m[0m
+[   4% ] [90m[1mupdate_scripts_classes[22m | [39m[0m
+[   8% ] [90m[1mupdate_scripts_classes[22m | LPCAnimationData[39m[0m
+[  12% ] [90m[1mupdate_scripts_classes[22m | LPCAnimationDataBase[39m[0m
+[  16% ] [90m[1mupdate_scripts_classes[22m | LPCAnimationDataSingleSprite[39m[0m
+[  20% ] [90m[1mupdate_scripts_classes[22m | [39m[0m
+[  24% ] [90m[1mupdate_scripts_classes[22m | [39m[0m
+[  28% ] [90m[1mupdate_scripts_classes[22m | [39m[0m
+[  32% ] [90m[1mupdate_scripts_classes[22m | [39m[0m
+[  36% ] [90m[1mupdate_scripts_classes[22m | [39m[0m
+[  40% ] [90m[1mupdate_scripts_classes[22m | [39m[0m
+[  44% ] [90m[1mupdate_scripts_classes[22m | [39m[0m
+[  48% ] [90m[1mupdate_scripts_classes[22m | [39m[0m
+[  52% ] [90m[1mupdate_scripts_classes[22m | [39m[0m
+[  56% ] [90m[1mupdate_scripts_classes[22m | [39m[0m
+[  60% ] [90m[1mupdate_scripts_classes[22m | [39m[0m
+[  64% ] [90m[1mupdate_scripts_classes[22m | [39m[0m
+[  68% ] [90m[1mupdate_scripts_classes[22m | [39m[0m
+[  72% ] [90m[1mupdate_scripts_classes[22m | [39m[0m
+[  76% ] [90m[1mupdate_scripts_classes[22m | [39m[0m
+[  80% ] [90m[1mupdate_scripts_classes[22m | [39m[0m
+[  84% ] [90m[1mupdate_scripts_classes[22m | [39m[0m
+[  88% ] [90m[1mupdate_scripts_classes[22m | [39m[0m
+[  92% ] [90m[1mupdate_scripts_classes[22m | [39m[0m
+[92m[ DONE ][39m [1mupdate_scripts_classes[22m
+[0m
+[   0% ] [90m[1m_update_scan_actions[22m | Started Scanning actions... (126 steps)[39m[0m
+[   0% ] [90m[1m_update_scan_actions[22m | icon2d.png[39m[0m
+[   0% ] [90m[1m_update_scan_actions[22m | icon3d.png[39m[0m
+[   1% ] [90m[1m_update_scan_actions[22m | fa8.png[39m[0m
+[   2% ] [90m[1m_update_scan_actions[22m | fa10.png[39m[0m
+[   3% ] [90m[1m_update_scan_actions[22m | fa13.png[39m[0m
+[   3% ] [90m[1m_update_scan_actions[22m | fa16.png[39m[0m
+[   4% ] [90m[1m_update_scan_actions[22m | fa664.png[39m[0m
+[   5% ] [90m[1m_update_scan_actions[22m | fa671.png[39m[0m
+[   6% ] [90m[1m_update_scan_actions[22m | weapon_plan.png[39m[0m
+[   7% ] [90m[1m_update_scan_actions[22m | hurt.png[39m[0m
+[   7% ] [90m[1m_update_scan_actions[22m | slash.png[39m[0m
+[   8% ] [90m[1m_update_scan_actions[22m | thrust.png[39m[0m
+[   9% ] [90m[1m_update_scan_actions[22m | walk.png[39m[0m
+[  10% ] [90m[1m_update_scan_actions[22m | slash_oversize.png[39m[0m
+[  11% ] [90m[1m_update_scan_actions[22m | slash_oversize.png[39m[0m
+[  11% ] [90m[1m_update_scan_actions[22m | walk.png[39m[0m
+[  12% ] [90m[1m_update_scan_actions[22m | hurt.png[39m[0m
+[  13% ] [90m[1m_update_scan_actions[22m | walk.png[39m[0m
+[  14% ] [90m[1m_update_scan_actions[22m | hurt.png[39m[0m
+[  14% ] [90m[1m_update_scan_actions[22m | slash.png[39m[0m
+[  15% ] [90m[1m_update_scan_actions[22m | thrust.png[39m[0m
+[  16% ] [90m[1m_update_scan_actions[22m | walk.png[39m[0m
+[  17% ] [90m[1m_update_scan_actions[22m | hurt.png[39m[0m
+[  18% ] [90m[1m_update_scan_actions[22m | slash.png[39m[0m
+[  18% ] [90m[1m_update_scan_actions[22m | thrust.png[39m[0m
+[  19% ] [90m[1m_update_scan_actions[22m | walk.png[39m[0m
+[  20% ] [90m[1m_update_scan_actions[22m | hurt.png[39m[0m
+[  21% ] [90m[1m_update_scan_actions[22m | slash.png[39m[0m
+[  22% ] [90m[1m_update_scan_actions[22m | thrust.png[39m[0m
+[  22% ] [90m[1m_update_scan_actions[22m | walk.png[39m[0m
+[  23% ] [90m[1m_update_scan_actions[22m | hurt.png[39m[0m
+[  24% ] [90m[1m_update_scan_actions[22m | slash.png[39m[0m
+[  25% ] [90m[1m_update_scan_actions[22m | thrust.png[39m[0m
+[  25% ] [90m[1m_update_scan_actions[22m | walk.png[39m[0m
+[  26% ] [90m[1m_update_scan_actions[22m | hurt.png[39m[0m
+[  27% ] [90m[1m_update_scan_actions[22m | slash.png[39m[0m
+[  28% ] [90m[1m_update_scan_actions[22m | thrust.png[39m[0m
+[  29% ] [90m[1m_update_scan_actions[22m | walk.png[39m[0m
+[  29% ] [90m[1m_update_scan_actions[22m | hurt.png[39m[0m
+[  30% ] [90m[1m_update_scan_actions[22m | slash.png[39m[0m
+[  31% ] [90m[1m_update_scan_actions[22m | thrust.png[39m[0m
+[  32% ] [90m[1m_update_scan_actions[22m | walk.png[39m[0m
+[  33% ] [90m[1m_update_scan_actions[22m | hurt.png[39m[0m
+[  33% ] [90m[1m_update_scan_actions[22m | slash.png[39m[0m
+[  34% ] [90m[1m_update_scan_actions[22m | thrust.png[39m[0m
+[  35% ] [90m[1m_update_scan_actions[22m | walk.png[39m[0m
+[  36% ] [90m[1m_update_scan_actions[22m | slash.png[39m[0m
+[  37% ] [90m[1m_update_scan_actions[22m | thrust.png[39m[0m
+[  37% ] [90m[1m_update_scan_actions[22m | walk.png[39m[0m
+[  38% ] [90m[1m_update_scan_actions[22m | hurt.png[39m[0m
+[  39% ] [90m[1m_update_scan_actions[22m | thrust.png[39m[0m
+[  40% ] [90m[1m_update_scan_actions[22m | walk.png[39m[0m
+[  40% ] [90m[1m_update_scan_actions[22m | hurt.png[39m[0m
+[  41% ] [90m[1m_update_scan_actions[22m | thrust.png[39m[0m
+[  42% ] [90m[1m_update_scan_actions[22m | walk.png[39m[0m
+[  43% ] [90m[1m_update_scan_actions[22m | slash_oversize.png[39m[0m
+[  44% ] [90m[1m_update_scan_actions[22m | slash_oversize.png[39m[0m
+[  44% ] [90m[1m_update_scan_actions[22m | hurt.png[39m[0m
+[  45% ] [90m[1m_update_scan_actions[22m | walk.png[39m[0m
+[  46% ] [90m[1m_update_scan_actions[22m | hurt.png[39m[0m
+[  47% ] [90m[1m_update_scan_actions[22m | walk.png[39m[0m
+[  48% ] [90m[1m_update_scan_actions[22m | CREDITS.csv[39m[0m
+[  48% ] [90m[1m_update_scan_actions[22m | FallingPlatfrom.png[39m[0m
+[  49% ] [90m[1m_update_scan_actions[22m | FallingRock.png[39m[0m
+[  50% ] [90m[1m_update_scan_actions[22m | Fan.png[39m[0m
+[  51% ] [90m[1m_update_scan_actions[22m | Fire.png[39m[0m
+[  51% ] [90m[1m_update_scan_actions[22m | FireBox.png[39m[0m
+[  52% ] [90m[1m_update_scan_actions[22m | Jumper.png[39m[0m
+[  53% ] [90m[1m_update_scan_actions[22m | Shooter_Arrow_Trap.png[39m[0m
+[  54% ] [90m[1m_update_scan_actions[22m | Spear.png[39m[0m
+[  55% ] [90m[1m_update_scan_actions[22m | SpikeBall.png[39m[0m
+[  55% ] [90m[1m_update_scan_actions[22m | Suriken.png[39m[0m
+[  56% ] [90m[1m_update_scan_actions[22m | Trap_Spike_Run.png[39m[0m
+[  57% ] [90m[1m_update_scan_actions[22m | UI_Flat_Button01a_1.png[39m[0m
+[  58% ] [90m[1m_update_scan_actions[22m | UI_Flat_Button01a_2.png[39m[0m
+[  59% ] [90m[1m_update_scan_actions[22m | UI_Flat_Button01a_3.png[39m[0m
+[  59% ] [90m[1m_update_scan_actions[22m | UI_Flat_IconCheck01a.png[39m[0m
+[  60% ] [90m[1m_update_scan_actions[22m | UI_Flat_IconDropdown01a.png[39m[0m
+[  61% ] [90m[1m_update_scan_actions[22m | UI_Flat_IconPlay01a.png[39m[0m
+[  62% ] [90m[1m_update_scan_actions[22m | bomb.png[39m[0m
+[  62% ] [90m[1m_update_scan_actions[22m | hero.png[39m[0m
+[  63% ] [90m[1m_update_scan_actions[22m | spike.png[39m[0m
+[  64% ] [90m[1m_update_scan_actions[22m | tiles.png[39m[0m
+[  65% ] [90m[1m_update_scan_actions[22m | catDecor.png[39m[0m
+[  66% ] [90m[1m_update_scan_actions[22m | catTiles.png[39m[0m
+[  66% ] [90m[1m_update_scan_actions[22m | catTorch.png[39m[0m
+[  67% ] [90m[1m_update_scan_actions[22m | decor.png[39m[0m
+[  68% ] [90m[1m_update_scan_actions[22m | Demon_AAttack01.png[39m[0m
+[  69% ] [90m[1m_update_scan_actions[22m | Demon_ADeath.png[39m[0m
+[  70% ] [90m[1m_update_scan_actions[22m | Demon_AHurt.png[39m[0m
+[  70% ] [90m[1m_update_scan_actions[22m | Demon_AIdle.png[39m[0m
+[  71% ] [90m[1m_update_scan_actions[22m | Demon_AWalk.png[39m[0m
+[  72% ] [90m[1m_update_scan_actions[22m | grass.png[39m[0m
+[  73% ] [90m[1m_update_scan_actions[22m | LavaTexture.jpg[39m[0m
+[  74% ] [90m[1m_update_scan_actions[22m | Monster00.png[39m[0m
+[  74% ] [90m[1m_update_scan_actions[22m | Monster01.png[39m[0m
+[  75% ] [90m[1m_update_scan_actions[22m | Monster02.png[39m[0m
+[  76% ] [90m[1m_update_scan_actions[22m | Monster03.png[39m[0m
+[  77% ] [90m[1m_update_scan_actions[22m | Monster09.png[39m[0m
+[  77% ] [90m[1m_update_scan_actions[22m | objects.png[39m[0m
+[  78% ] [90m[1m_update_scan_actions[22m | OrcAttack01.png[39m[0m
+[  79% ] [90m[1m_update_scan_actions[22m | OrcDeath.png[39m[0m
+[  80% ] [90m[1m_update_scan_actions[22m | OrcHurt.png[39m[0m
+[  81% ] [90m[1m_update_scan_actions[22m | OrcIdle.png[39m[0m
+[  81% ] [90m[1m_update_scan_actions[22m | OrcWalk.png[39m[0m
+[  82% ] [90m[1m_update_scan_actions[22m | potionHealth.png[39m[0m
+[  83% ] [90m[1m_update_scan_actions[22m | potionPower.png[39m[0m
+[  84% ] [90m[1m_update_scan_actions[22m | potionSpeed.png[39m[0m
+[  85% ] [90m[1m_update_scan_actions[22m | Slime.png[39m[0m
+[  85% ] [90m[1m_update_scan_actions[22m | SoldierAttack01.png[39m[0m
+[  86% ] [90m[1m_update_scan_actions[22m | SoldierDeath.png[39m[0m
+[  87% ] [90m[1m_update_scan_actions[22m | SoldierHurt.png[39m[0m
+[  88% ] [90m[1m_update_scan_actions[22m | SoldierIdle.png[39m[0m
+[  88% ] [90m[1m_update_scan_actions[22m | SoldierWalk.png[39m[0m
+[  89% ] [90m[1m_update_scan_actions[22m | TrapBomb.png[39m[0m
+[  90% ] [90m[1m_update_scan_actions[22m | TrapBow.png[39m[0m
+[  91% ] [90m[1m_update_scan_actions[22m | TrapBrick.png[39m[0m
+[  92% ] [90m[1m_update_scan_actions[22m | TrapFan.png[39m[0m
+[  92% ] [90m[1m_update_scan_actions[22m | TrapFire.png[39m[0m
+[  93% ] [90m[1m_update_scan_actions[22m | TrapFireBox.png[39m[0m
+[  94% ] [90m[1m_update_scan_actions[22m | TrapMace.png[39m[0m
+[  95% ] [90m[1m_update_scan_actions[22m | TrapPlatform.png[39m[0m
+[  96% ] [90m[1m_update_scan_actions[22m | TrapRock.png[39m[0m
+[  96% ] [90m[1m_update_scan_actions[22m | TrapSaw.png[39m[0m
+[  97% ] [90m[1m_update_scan_actions[22m | TrapSpikes.png[39m[0m
+[  98% ] [90m[1m_update_scan_actions[22m | TrapWall.png[39m[0m
+[92m[ DONE ][39m [1m_update_scan_actions[22m
+[0m
+[   0% ] [90m[1mreimport[22m | Started (Re)Importing Assets (125 steps)[39m[0m
+[   0% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[   0% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[   1% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[   2% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[   3% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[   3% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[   4% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[   5% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[   6% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[   7% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[   7% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[   8% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[   9% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  10% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  11% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  11% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  12% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  13% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  14% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  15% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  15% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  16% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  17% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  18% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  19% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  19% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  20% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  21% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  22% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  23% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  23% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  24% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  25% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  26% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  26% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  27% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  28% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  29% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  30% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  30% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  31% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  32% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  33% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  34% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  34% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  35% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  36% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  37% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  38% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  38% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  39% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  40% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  41% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  42% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  42% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  43% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  44% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  45% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  46% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  46% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  47% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  48% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  49% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  50% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  50% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  51% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  52% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  53% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  53% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  54% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  55% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  56% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  57% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  57% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  58% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  59% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  60% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  61% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  61% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  62% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  63% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  64% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  65% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  65% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  66% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  67% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  68% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  69% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  69% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  70% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  71% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  72% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  73% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  73% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  74% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  75% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  76% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  76% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  77% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  78% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  79% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  80% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  80% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  81% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  82% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  83% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  84% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  84% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  85% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  86% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  87% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  88% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  88% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  89% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  90% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  91% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  92% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  92% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  93% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  94% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  95% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  96% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  96% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  97% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[  98% ] [90m[1mreimport[22m | Preparing files to reimport...[39m[0m
+[   0% ] [90m[1mreimport[22m | Executing pre-reimport operations...[39m[0m
+[   0% ] [90m[1mreimport[22m | CREDITS.csv[39m[0m
+[   0% ] [90m[1mreimport[22m | CREDITS.csv[39m[0m
+[   1% ] [90m[1mreimport[22m | LavaTexture.jpg[39m[0m
+[   2% ] [90m[1mreimport[22m | grass.png[39m[0m
+[   3% ] [90m[1mreimport[22m | Demon_AWalk.png[39m[0m
+[   3% ] [90m[1mreimport[22m | Demon_AIdle.png[39m[0m
+[   4% ] [90m[1mreimport[22m | Demon_AHurt.png[39m[0m
+[   5% ] [90m[1mreimport[22m | Demon_ADeath.png[39m[0m
+[   6% ] [90m[1mreimport[22m | Demon_AAttack01.png[39m[0m
+[   7% ] [90m[1mreimport[22m | decor.png[39m[0m
+[   7% ] [90m[1mreimport[22m | catTorch.png[39m[0m
+[   8% ] [90m[1mreimport[22m | catTiles.png[39m[0m
+[   9% ] [90m[1mreimport[22m | catDecor.png[39m[0m
+[  10% ] [90m[1mreimport[22m | tiles.png[39m[0m
+[  11% ] [90m[1mreimport[22m | spike.png[39m[0m
+[  11% ] [90m[1mreimport[22m | hero.png[39m[0m
+[  12% ] [90m[1mreimport[22m | bomb.png[39m[0m
+[  13% ] [90m[1mreimport[22m | UI_Flat_IconPlay01a.png[39m[0m
+[  14% ] [90m[1mreimport[22m | UI_Flat_IconDropdown01a.png[39m[0m
+[  15% ] [90m[1mreimport[22m | UI_Flat_IconCheck01a.png[39m[0m
+[  15% ] [90m[1mreimport[22m | UI_Flat_Button01a_3.png[39m[0m
+[  16% ] [90m[1mreimport[22m | UI_Flat_Button01a_2.png[39m[0m
+[  17% ] [90m[1mreimport[22m | UI_Flat_Button01a_1.png[39m[0m
+[  18% ] [90m[1mreimport[22m | Trap_Spike_Run.png[39m[0m
+[  19% ] [90m[1mreimport[22m | Suriken.png[39m[0m
+[  19% ] [90m[1mreimport[22m | SpikeBall.png[39m[0m
+[  20% ] [90m[1mreimport[22m | Spear.png[39m[0m
+[  21% ] [90m[1mreimport[22m | Shooter_Arrow_Trap.png[39m[0m
+[  22% ] [90m[1mreimport[22m | Jumper.png[39m[0m
+[  23% ] [90m[1mreimport[22m | FireBox.png[39m[0m
+[  23% ] [90m[1mreimport[22m | Fire.png[39m[0m
+[  24% ] [90m[1mreimport[22m | Fan.png[39m[0m
+[  25% ] [90m[1mreimport[22m | TrapWall.png[39m[0m
+[  26% ] [90m[1mreimport[22m | TrapSpikes.png[39m[0m
+[  26% ] [90m[1mreimport[22m | TrapSaw.png[39m[0m
+[  27% ] [90m[1mreimport[22m | TrapRock.png[39m[0m
+[  28% ] [90m[1mreimport[22m | TrapPlatform.png[39m[0m
+[  29% ] [90m[1mreimport[22m | TrapMace.png[39m[0m
+[  30% ] [90m[1mreimport[22m | TrapFireBox.png[39m[0m
+[  30% ] [90m[1mreimport[22m | TrapFire.png[39m[0m
+[  31% ] [90m[1mreimport[22m | TrapFan.png[39m[0m
+[  32% ] [90m[1mreimport[22m | TrapBrick.png[39m[0m
+[  33% ] [90m[1mreimport[22m | TrapBow.png[39m[0m
+[  34% ] [90m[1mreimport[22m | TrapBomb.png[39m[0m
+[  34% ] [90m[1mreimport[22m | SoldierWalk.png[39m[0m
+[  35% ] [90m[1mreimport[22m | SoldierIdle.png[39m[0m
+[  36% ] [90m[1mreimport[22m | SoldierHurt.png[39m[0m
+[  37% ] [90m[1mreimport[22m | SoldierDeath.png[39m[0m
+[  38% ] [90m[1mreimport[22m | SoldierAttack01.png[39m[0m
+[  38% ] [90m[1mreimport[22m | Slime.png[39m[0m
+[  39% ] [90m[1mreimport[22m | potionSpeed.png[39m[0m
+[  40% ] [90m[1mreimport[22m | potionPower.png[39m[0m
+[  41% ] [90m[1mreimport[22m | potionHealth.png[39m[0m
+[  42% ] [90m[1mreimport[22m | OrcWalk.png[39m[0m
+[  42% ] [90m[1mreimport[22m | OrcIdle.png[39m[0m
+[  43% ] [90m[1mreimport[22m | OrcHurt.png[39m[0m
+[  44% ] [90m[1mreimport[22m | OrcDeath.png[39m[0m
+[  45% ] [90m[1mreimport[22m | OrcAttack01.png[39m[0m
+[  46% ] [90m[1mreimport[22m | objects.png[39m[0m
+[  46% ] [90m[1mreimport[22m | Monster09.png[39m[0m
+[  47% ] [90m[1mreimport[22m | Monster03.png[39m[0m
+[  48% ] [90m[1mreimport[22m | Monster02.png[39m[0m
+[  49% ] [90m[1mreimport[22m | Monster01.png[39m[0m
+[  50% ] [90m[1mreimport[22m | Monster00.png[39m[0m
+[  50% ] [90m[1mreimport[22m | slash.png[39m[0m
+[  51% ] [90m[1mreimport[22m | hurt.png[39m[0m
+[  52% ] [90m[1mreimport[22m | walk.png[39m[0m
+[  53% ] [90m[1mreimport[22m | thrust.png[39m[0m
+[  53% ] [90m[1mreimport[22m | slash.png[39m[0m
+[  54% ] [90m[1mreimport[22m | hurt.png[39m[0m
+[  55% ] [90m[1mreimport[22m | walk.png[39m[0m
+[  56% ] [90m[1mreimport[22m | thrust.png[39m[0m
+[  57% ] [90m[1mreimport[22m | slash.png[39m[0m
+[  57% ] [90m[1mreimport[22m | hurt.png[39m[0m
+[  58% ] [90m[1mreimport[22m | walk.png[39m[0m
+[  59% ] [90m[1mreimport[22m | thrust.png[39m[0m
+[  60% ] [90m[1mreimport[22m | slash.png[39m[0m
+[  61% ] [90m[1mreimport[22m | hurt.png[39m[0m
+[  61% ] [90m[1mreimport[22m | walk.png[39m[0m
+[  62% ] [90m[1mreimport[22m | hurt.png[39m[0m
+[  63% ] [90m[1mreimport[22m | walk.png[39m[0m
+[  64% ] [90m[1mreimport[22m | slash_oversize.png[39m[0m
+[  65% ] [90m[1mreimport[22m | slash_oversize.png[39m[0m
+[  65% ] [90m[1mreimport[22m | walk.png[39m[0m
+[  66% ] [90m[1mreimport[22m | thrust.png[39m[0m
+[  67% ] [90m[1mreimport[22m | slash.png[39m[0m
+[  68% ] [90m[1mreimport[22m | hurt.png[39m[0m
+[  69% ] [90m[1mreimport[22m | weapon_plan.png[39m[0m
+[  69% ] [90m[1mreimport[22m | fa671.png[39m[0m
+[  70% ] [90m[1mreimport[22m | fa664.png[39m[0m
+[  71% ] [90m[1mreimport[22m | fa16.png[39m[0m
+[  72% ] [90m[1mreimport[22m | fa13.png[39m[0m
+[  73% ] [90m[1mreimport[22m | fa10.png[39m[0m
+[  73% ] [90m[1mreimport[22m | fa8.png[39m[0m
+[  74% ] [90m[1mreimport[22m | icon3d.png[39m[0m
+[  75% ] [90m[1mreimport[22m | FallingRock.png[39m[0m
+[  76% ] [90m[1mreimport[22m | FallingPlatfrom.png[39m[0m
+[  76% ] [90m[1mreimport[22m | walk.png[39m[0m
+[  77% ] [90m[1mreimport[22m | hurt.png[39m[0m
+[  78% ] [90m[1mreimport[22m | walk.png[39m[0m
+[  79% ] [90m[1mreimport[22m | hurt.png[39m[0m
+[  80% ] [90m[1mreimport[22m | slash_oversize.png[39m[0m
+[  80% ] [90m[1mreimport[22m | slash_oversize.png[39m[0m
+[  81% ] [90m[1mreimport[22m | walk.png[39m[0m
+[  82% ] [90m[1mreimport[22m | thrust.png[39m[0m
+[  83% ] [90m[1mreimport[22m | hurt.png[39m[0m
+[  84% ] [90m[1mreimport[22m | walk.png[39m[0m
+[  84% ] [90m[1mreimport[22m | thrust.png[39m[0m
+[  85% ] [90m[1mreimport[22m | hurt.png[39m[0m
+[  86% ] [90m[1mreimport[22m | walk.png[39m[0m
+[  87% ] [90m[1mreimport[22m | thrust.png[39m[0m
+[  88% ] [90m[1mreimport[22m | slash.png[39m[0m
+[  88% ] [90m[1mreimport[22m | walk.png[39m[0m
+[  89% ] [90m[1mreimport[22m | thrust.png[39m[0m
+[  90% ] [90m[1mreimport[22m | slash.png[39m[0m
+[  91% ] [90m[1mreimport[22m | hurt.png[39m[0m
+[  92% ] [90m[1mreimport[22m | walk.png[39m[0m
+[  92% ] [90m[1mreimport[22m | thrust.png[39m[0m
+[  93% ] [90m[1mreimport[22m | slash.png[39m[0m
+[  94% ] [90m[1mreimport[22m | hurt.png[39m[0m
+[  95% ] [90m[1mreimport[22m | walk.png[39m[0m
+[  96% ] [90m[1mreimport[22m | thrust.png[39m[0m
+[  96% ] [90m[1mreimport[22m | slash.png[39m[0m
+[  97% ] [90m[1mreimport[22m | hurt.png[39m[0m
+[  98% ] [90m[1mreimport[22m | walk.png[39m[0m
+[  99% ] [90m[1mreimport[22m | Finalizing Asset Import...[39m[0m
+[92m[ DONE ][39m [1mreimport[22m
+[0m
+[   0% ] [90m[1mreimport[22m | Started (Re)Importing Assets (125 steps)[39m[0m
+[   0% ] [90m[1mreimport[22m | Executing post-reimport operations...[39m[0m
+[92m[ DONE ][39m [1mreimport[22m
+[0m
+[   0% ] [90m[1mloading_editor_layout[22m | Started Loading editor (5 steps)[39m[0m
+[   0% ] [90m[1mloading_editor_layout[22m | Loading editor layout...[39m[0m
+[  16% ] [90m[1mloading_editor_layout[22m | Loading docks...[39m[0m
+[92m[ DONE ][39m [1mloading_editor_layout[22m
+[0m
+ERROR: Cannot save file '/Users/kafufu/Library/Application Support/Godot/editor_settings-4.7.tres'.
+   at: save (scene/resources/resource_format_text.cpp:1768)
+ERROR: Error saving editor settings to /Users/kafufu/Library/Application Support/Godot/editor_settings-4.7.tres
+   at: save (editor/settings/editor_settings.cpp:1525)

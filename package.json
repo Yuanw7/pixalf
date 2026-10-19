@@ -1,0 +1,11 @@
+{
+  "name": "thornbound",
+  "version": "0.9.0",
+  "private": true,
+  "description": "Two-map squad action with dense trap gauntlets and a linear five-stage campaign",
+  "scripts": {
+    "start": "node scripts/server.mjs",
+    "build": "python3 scripts/build.py",
+    "test": "node --check index.js && node tests/combat.mjs && node tests/trials.mjs && node tests/doors.mjs && node tests/door-crossing.mjs && node tests/keeper-bomb.mjs && node tests/jump-knockback.mjs && node tests/fire-beam.mjs && node tests/companion-lava.mjs && node tests/monsters-traps.mjs && node tests/level-complexity.mjs && node tests/playthrough.mjs"
+  }
+}

@@ -1,0 +1,1707 @@
+[
+  {
+    "path": "Icons/icon1.png",
+    "bytes": 496,
+    "sha256": "7d1871af3f9f70376cadf406ee70f8fa35b55f3c4737e1a25df3697d60cc80f5",
+    "size": [
+      32,
+      32
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Icons/icon10.png",
+    "bytes": 609,
+    "sha256": "384c266c400ef33126434ed08b9b285ad3f7d51816ecd6586bd7eaea630c73ae",
+    "size": [
+      32,
+      32
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Icons/icon11.png",
+    "bytes": 632,
+    "sha256": "53965011bdc1de8c8ff2fe5a124be06846f6770ab82110c73bf47696a84b942a",
+    "size": [
+      32,
+      32
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Icons/icon12.png",
+    "bytes": 602,
+    "sha256": "5990b805ca92ae0eb707cebeec1c894fae6eb3bdd3eb6566e8cf2783bacf3bca",
+    "size": [
+      32,
+      32
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Icons/icon13.png",
+    "bytes": 575,
+    "sha256": "2d82e7bee566dd51a1d556bb9f8177b758259815f64d62a801089ff60f19e5c9",
+    "size": [
+      32,
+      32
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Icons/icon14.png",
+    "bytes": 460,
+    "sha256": "f7d606e34a44cd855a49f1156fbb35f6b02b65bcafe1f19e7c3564b3c6cbc2bd",
+    "size": [
+      32,
+      32
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Icons/icon15.png",
+    "bytes": 450,
+    "sha256": "7a52596dcf887de0a2ecefe4f06b203a60ebd89076d0b28477a2543bd2ab008b",
+    "size": [
+      32,
+      32
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Icons/icon16.png",
+    "bytes": 394,
+    "sha256": "fa02a8aacc0ab47c3021cd9fffea0bf62be706d0ae9059e77ccb870eaa1d5598",
+    "size": [
+      32,
+      32
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Icons/icon17.png",
+    "bytes": 414,
+    "sha256": "a86bd253860fdf1734df4220a916059d0d410cefdfb8ed2db56aa1cdf182386f",
+    "size": [
+      32,
+      32
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Icons/icon18.png",
+    "bytes": 409,
+    "sha256": "6a3a31cafa2bd8570424ab93333fc1351e7137a8a0f1f2eed3efd04ae830b76f",
+    "size": [
+      32,
+      32
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Icons/icon19.png",
+    "bytes": 540,
+    "sha256": "aa56db0b29245d9f6c1b1895513af828459e05b38447ffcb53ff61fd3027b8d6",
+    "size": [
+      32,
+      32
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Icons/icon2.png",
+    "bytes": 537,
+    "sha256": "588630970f935f588cce151a7b1689b18fc3aa96e06bb157d12951075ea18737",
+    "size": [
+      32,
+      32
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Icons/icon20.png",
+    "bytes": 517,
+    "sha256": "a1cacb5beec18b433657f4df68606ce7d0ba14205fc0566c0bb2fd3ffcb87aea",
+    "size": [
+      32,
+      32
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Icons/icon21.png",
+    "bytes": 493,
+    "sha256": "9f505c6de1ba3de72d79373eafafee9fd73c37bb0856f7fe84f81bcb593af29c",
+    "size": [
+      32,
+      32
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Icons/icon22.png",
+    "bytes": 508,
+    "sha256": "162aade50a5c7b29454fc7e7d4c21bac81815d8951f4e4751ebe3da24e475891",
+    "size": [
+      32,
+      32
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Icons/icon23.png",
+    "bytes": 494,
+    "sha256": "8ed22f8821427b52721bd2ec2e62ba6613f3f55c88a3a72e7596aeeaf793821f",
+    "size": [
+      32,
+      32
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Icons/icon24.png",
+    "bytes": 427,
+    "sha256": "1fad6b2ea7c2dfe10ff0a7070703ae57e94585c6e548a69c4d370229c22be0b4",
+    "size": [
+      32,
+      32
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Icons/icon25.png",
+    "bytes": 522,
+    "sha256": "9523873fa0cbbf3703f25d58a36e07a01881efd76e974532206ad2c40d788127",
+    "size": [
+      32,
+      32
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Icons/icon26.png",
+    "bytes": 455,
+    "sha256": "33eeb3d1b9886c764427c7cd7a3614df657c6f202fe37cc4a4690d5f41fd84a3",
+    "size": [
+      32,
+      32
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Icons/icon27.png",
+    "bytes": 541,
+    "sha256": "518931ac1b9fead1afda63f88f946fd694c97160e8a120b5ee9dfdfcb34573be",
+    "size": [
+      32,
+      32
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Icons/icon28.png",
+    "bytes": 371,
+    "sha256": "4156c3ac221f324d1669348a4ca6bc072c25ee9137db7fe636a2ee8030f1263b",
+    "size": [
+      32,
+      32
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Icons/icon29.png",
+    "bytes": 387,
+    "sha256": "50061205e1cb96250b695a3929ad8e839438badb3a7dadce847ad5e5ad825110",
+    "size": [
+      32,
+      32
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Icons/icon3.png",
+    "bytes": 488,
+    "sha256": "4abb6a4bcbef84b670baacc86172a825feeeb350657add3c3c92b0979d4cb817",
+    "size": [
+      32,
+      32
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Icons/icon30.png",
+    "bytes": 474,
+    "sha256": "d23a2d4a4c99ed2fc7ea261589051ba683bd53a015697108ac3129e427aca17c",
+    "size": [
+      32,
+      32
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Icons/icon31.png",
+    "bytes": 509,
+    "sha256": "a64c758f2a09ee608835b905eba9184b8b2a42084faec09d2534575e92019093",
+    "size": [
+      32,
+      32
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Icons/icon32.png",
+    "bytes": 537,
+    "sha256": "29a85327dfcc31a263e201eee7c7ceff306d2cffad0160ba3e035aa0f1a0ef7d",
+    "size": [
+      32,
+      32
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Icons/icon4.png",
+    "bytes": 571,
+    "sha256": "0255fda3c1378e38060afaf1224bdeec990529c2b239451765569b8728dc5b30",
+    "size": [
+      32,
+      32
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Icons/icon5.png",
+    "bytes": 485,
+    "sha256": "2d257d317082c9e0d7182d31d692493e0fcd2d9f0fe3d744c58fc8b90e8981ec",
+    "size": [
+      32,
+      32
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Icons/icon6.png",
+    "bytes": 531,
+    "sha256": "d8a3687cd1fff35ee43d295d683423ec15acd87f17782e1b904cda15bf65f7c1",
+    "size": [
+      32,
+      32
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Icons/icon7.png",
+    "bytes": 596,
+    "sha256": "ac7e24fbedd0811e004dc4a65ef4956aead3d520d062cbd4cdf38790f02cfeb1",
+    "size": [
+      32,
+      32
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Icons/icon8.png",
+    "bytes": 320,
+    "sha256": "2b4fd6acea448343645a8596741f8c6821bcf2ca07655005447704ea98d9872a",
+    "size": [
+      32,
+      32
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Icons/icon9.png",
+    "bytes": 556,
+    "sha256": "62b845edd8ec34a97230794193b9588fe74d7e73e2240689157fdc3b7a20853c",
+    "size": [
+      32,
+      32
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "RF_Catacombs_v1.0/PSD/Anim/candleA.psd",
+    "bytes": 28182,
+    "sha256": "c9140b1caf2d081b231854644d72ce1a8b50e630dd5d0e616b300b48eb1a2845",
+    "size": [
+      16,
+      16
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "RF_Catacombs_v1.0/PSD/Anim/candleB.psd",
+    "bytes": 30089,
+    "sha256": "cc478da038e7125dc880e0193ab45122feb8017b3bbd9e1f926de74c1a3d5ae5",
+    "size": [
+      16,
+      16
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "RF_Catacombs_v1.0/PSD/Anim/spike.psd",
+    "bytes": 29818,
+    "sha256": "7e1a61bd24010acf69f085e1a45b71cb21359a1cea705a0bc36e8c640b695c3e",
+    "size": [
+      16,
+      16
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "RF_Catacombs_v1.0/PSD/Anim/torch.psd",
+    "bytes": 30111,
+    "sha256": "c87e548dda06de69f857be69604108ea4f7172497e6e1796db2e37f0a9de3055",
+    "size": [
+      16,
+      16
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "RF_Catacombs_v1.0/PSD/decorative.psd",
+    "bytes": 131860,
+    "sha256": "962fe80b39ddc0a2ca901e4d8ac660f927e48e35b1482a94d477ec2c6611c9dd",
+    "size": [
+      256,
+      256
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "RF_Catacombs_v1.0/PSD/mainlevbuild.psd",
+    "bytes": 966970,
+    "sha256": "28fd1cdbb21bc465f0d3eac9d88629fd14e2a3c61ca970d077a13dcf13ee5f33",
+    "size": [
+      1024,
+      640
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "RF_Catacombs_v1.0/candleA_01.png",
+    "bytes": 3809,
+    "sha256": "15972d2a583dffe55476efbdb2bf6772f2e43fe257dedb3829b2c1c2711c5071",
+    "size": [
+      7,
+      14
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "RF_Catacombs_v1.0/candleA_02.png",
+    "bytes": 3821,
+    "sha256": "e384027bc88e32291a47443b7eafbdd39eceee9932da649791e2da9b2b5d1bbb",
+    "size": [
+      7,
+      15
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "RF_Catacombs_v1.0/candleA_03.png",
+    "bytes": 3810,
+    "sha256": "13e5db6e2519af482f3252fed115ed6a8e4d0c3eeea2e3e686bc699af0ea54f6",
+    "size": [
+      7,
+      16
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "RF_Catacombs_v1.0/candleA_04.png",
+    "bytes": 3801,
+    "sha256": "bc5840cede294f751f46edda396e6eb8f180d9a97290fa16b3849a54c01c89c2",
+    "size": [
+      7,
+      14
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "RF_Catacombs_v1.0/candleB_01.png",
+    "bytes": 3925,
+    "sha256": "35d66a343dc8ee1d7f8a777f96f05666cfd421e681ad3f749a9f45ae70fc0048",
+    "size": [
+      13,
+      16
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "RF_Catacombs_v1.0/candleB_02.png",
+    "bytes": 3897,
+    "sha256": "d3775ccad996b6f70951d89d49384452458869ba341a8b0b8602a841e7409a6b",
+    "size": [
+      13,
+      14
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "RF_Catacombs_v1.0/candleB_03.png",
+    "bytes": 3902,
+    "sha256": "ace0e2b29400b637115f0be466574c63df8e0a93742ad289430ef174f25cc7e3",
+    "size": [
+      13,
+      14
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "RF_Catacombs_v1.0/candleB_04.png",
+    "bytes": 3914,
+    "sha256": "8b8410b00705229c8dfa1265a4a66df4493d0aff22b6f21fce30e9b8219dcec1",
+    "size": [
+      13,
+      15
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "RF_Catacombs_v1.0/decorative.png",
+    "bytes": 17292,
+    "sha256": "b864e5285d2d01c3642e33db648dd3269f35f2af6d99c60e1f6d162986b8970f",
+    "size": [
+      256,
+      256
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "RF_Catacombs_v1.0/mainlevbuild.png",
+    "bytes": 93466,
+    "sha256": "2b700915b11eeed91395677b7d8b387a01fe728c6a10506d31b16c3e9de7b33d",
+    "size": [
+      1024,
+      640
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "RF_Catacombs_v1.0/public-license.txt",
+    "bytes": 224,
+    "sha256": "d6bea4c79cc8ae0e99c819b1971de77205c06bdbc64fff26fac3cb37eb67103c"
+  },
+  {
+    "path": "RF_Catacombs_v1.0/spike_0.png",
+    "bytes": 3718,
+    "sha256": "450776744b07bb1e3419608ba763f593fd4b69af7a23da14e363bfa40bb9f883",
+    "size": [
+      13,
+      12
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "RF_Catacombs_v1.0/spike_1.png",
+    "bytes": 3728,
+    "sha256": "1ab9222e0864828d0d781a8d0283f9576917b931b00d2be29b0a4ff040c2e8f5",
+    "size": [
+      13,
+      12
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "RF_Catacombs_v1.0/spike_2.png",
+    "bytes": 3723,
+    "sha256": "26929b47d2678dbce3693382b369c66fc67b38fd2a63a1515ef371ac3b067ce2",
+    "size": [
+      13,
+      12
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "RF_Catacombs_v1.0/spike_3.png",
+    "bytes": 3749,
+    "sha256": "679f8c76ed04c1970157a66dc8ac99cfee1ea584ed39b13b42142439dfd15055",
+    "size": [
+      13,
+      13
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "RF_Catacombs_v1.0/spike_4.png",
+    "bytes": 3778,
+    "sha256": "e5e5e09a8a53afb231ef42b4c38f0462149b9bc7054c17b23eb18c0435677b1f",
+    "size": [
+      13,
+      14
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "RF_Catacombs_v1.0/torch_1.png",
+    "bytes": 3954,
+    "sha256": "d1d2f6fe8ec10fa7801dc537f0f95301cae8a03a5483fdb9156f33b13e2c0780",
+    "size": [
+      16,
+      16
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "RF_Catacombs_v1.0/torch_2.png",
+    "bytes": 3958,
+    "sha256": "54a4182d73ddbaf4da3f778d2a5c122a34834994779bc689583cf3c54e937124",
+    "size": [
+      16,
+      15
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "RF_Catacombs_v1.0/torch_3.png",
+    "bytes": 3946,
+    "sha256": "f86d8d6c77bac0ab9f69389973184eb7a905643c25455016c049b5d06bbf81d3",
+    "size": [
+      16,
+      15
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "RF_Catacombs_v1.0/torch_4.png",
+    "bytes": 3948,
+    "sha256": "c73d3860945d1bbc331a470906c51941bf3ce8b34a80188fed2a11ca48f78642",
+    "size": [
+      16,
+      16
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Arrow(Projectile)/Arrow01(100x100).png",
+    "bytes": 325,
+    "sha256": "d0f15fd24492f04413012a627633c835001e78a49e939e23a67799d520e326bc",
+    "size": [
+      100,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Arrow(Projectile)/Arrow01(32x32).png",
+    "bytes": 260,
+    "sha256": "e87d9c62230b082dda32e9aca4e822f60816900f45318da297a9f5dc04d78b9a",
+    "size": [
+      32,
+      32
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Aseprite file/Orc.aseprite",
+    "bytes": 13331,
+    "sha256": "fb83ce89e19523ca05d52b5c3afcf33507d5d54fbf525b6e05e1b45c5b825896",
+    "asepriteHeader": {
+      "frames": 34,
+      "width": 100,
+      "height": 100
+    },
+    "layers": [
+      "body",
+      "fx",
+      "shadow"
+    ]
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Aseprite file/Soldier.aseprite",
+    "bytes": 16253,
+    "sha256": "5ddfbad3e6319b54ed9a1625bfedfb9320efd08eba00023355a8628f62779ff7",
+    "asepriteHeader": {
+      "frames": 43,
+      "width": 100,
+      "height": 100
+    },
+    "layers": [
+      "body",
+      "fx",
+      "shadow"
+    ]
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Characters(100x100 split)/Orc/Orc/Orc.png",
+    "bytes": 11488,
+    "sha256": "8e5452bcc3c5d9897c8caef2064145759b606d18167289f6f50e0dbe981010d9",
+    "size": [
+      800,
+      600
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Characters(100x100 split)/Orc/Orc/Orc_Attack01.png",
+    "bytes": 2315,
+    "sha256": "80e5ca7053c7e3d4c956588670fe1949c056fc0367be1d348d0cec9fe4df38ea",
+    "size": [
+      600,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Characters(100x100 split)/Orc/Orc/Orc_Attack02.png",
+    "bytes": 2262,
+    "sha256": "cd819a73d71658d82dcb520e0b1909aa6592dedaac78fdb40529ee9191ad8f2b",
+    "size": [
+      600,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Characters(100x100 split)/Orc/Orc/Orc_Death.png",
+    "bytes": 1822,
+    "sha256": "b96a0dd17d736ffed677c88f291fab70bb762481062d459ed665dba1fef5f5a5",
+    "size": [
+      400,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Characters(100x100 split)/Orc/Orc/Orc_Hurt.png",
+    "bytes": 1969,
+    "sha256": "100d59c2230266f91dc8772de973389ef26b800b66ba61a18a7d74c2a4a125c0",
+    "size": [
+      400,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Characters(100x100 split)/Orc/Orc/Orc_Idle.png",
+    "bytes": 1433,
+    "sha256": "0116b83877b5d503b54625059e3124383e572f0175ab311eb10e6d82e40d67ba",
+    "size": [
+      600,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Characters(100x100 split)/Orc/Orc/Orc_Walk.png",
+    "bytes": 1797,
+    "sha256": "dac8a01a4013d35c852abf337d1f8ba05004ae9ebb03e8c41ac68b3666e837be",
+    "size": [
+      800,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Characters(100x100 split)/Orc/Orc with shadows/Orc.png",
+    "bytes": 12256,
+    "sha256": "0481144f6a536df7592d81059c13e71ce7faccd04e07f48bf44465f19ca761c5",
+    "size": [
+      800,
+      600
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Characters(100x100 split)/Orc/Orc with shadows/Orc_Attack01.png",
+    "bytes": 2379,
+    "sha256": "642bd0df611abf91dda5adf2f6061a2d8decc7997f8277d681af6693b6a0f9a7",
+    "size": [
+      600,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Characters(100x100 split)/Orc/Orc with shadows/Orc_Attack02.png",
+    "bytes": 2391,
+    "sha256": "01ffe346a493820a604d92bfc5cd41f94971be6e8b35b354b4c7db013a55309a",
+    "size": [
+      600,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Characters(100x100 split)/Orc/Orc with shadows/Orc_Death.png",
+    "bytes": 1952,
+    "sha256": "cf376c07465cd284a838ed0abc977823faa92e0aa4f9db0461e33b11143cc13f",
+    "size": [
+      400,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Characters(100x100 split)/Orc/Orc with shadows/Orc_Hurt.png",
+    "bytes": 2103,
+    "sha256": "9870c61b29eb6594b20b184b3332a6be8c3fdceb002fe5fd2b158b9b054d7eef",
+    "size": [
+      400,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Characters(100x100 split)/Orc/Orc with shadows/Orc_Idle.png",
+    "bytes": 1522,
+    "sha256": "430b6a97ca4cfa80998d53422f3e942cd50ca906335c350e5615651f35c7aef4",
+    "size": [
+      600,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Characters(100x100 split)/Orc/Orc with shadows/Orc_Walk.png",
+    "bytes": 2007,
+    "sha256": "6d892ffd6e8fccea65480f89e29ef145faaa05cc742534717023237093f500d7",
+    "size": [
+      800,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Characters(100x100 split)/Orc/Orc.aseprite",
+    "bytes": 13331,
+    "sha256": "fb83ce89e19523ca05d52b5c3afcf33507d5d54fbf525b6e05e1b45c5b825896",
+    "asepriteHeader": {
+      "frames": 34,
+      "width": 100,
+      "height": 100
+    },
+    "layers": [
+      "body",
+      "fx",
+      "shadow"
+    ]
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Characters(100x100 split)/Soldier/Arrow(projectile)/Arrow01(100x100).png",
+    "bytes": 325,
+    "sha256": "d0f15fd24492f04413012a627633c835001e78a49e939e23a67799d520e326bc",
+    "size": [
+      100,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Characters(100x100 split)/Soldier/Arrow(projectile)/Arrow01(32x32).png",
+    "bytes": 260,
+    "sha256": "e87d9c62230b082dda32e9aca4e822f60816900f45318da297a9f5dc04d78b9a",
+    "size": [
+      32,
+      32
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Characters(100x100 split)/Soldier/Soldier/Soldier.png",
+    "bytes": 12936,
+    "sha256": "3223806c12462bbe7a352aa12dc25791f11394afe2d44c17a4520dff753e1691",
+    "size": [
+      900,
+      700
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Characters(100x100 split)/Soldier/Soldier/Soldier_Attack01.png",
+    "bytes": 1978,
+    "sha256": "907f5bd89b18492e7051ff3b1014a687fb8ffa501ac4486a24a1f58d198b4b20",
+    "size": [
+      600,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Characters(100x100 split)/Soldier/Soldier/Soldier_Attack02.png",
+    "bytes": 2358,
+    "sha256": "f978eb5ffba4d3446a9ffd6a6ac1ac6586c594c74d58ccab95ebd4d24e92ceaa",
+    "size": [
+      600,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Characters(100x100 split)/Soldier/Soldier/Soldier_Attack03.png",
+    "bytes": 2555,
+    "sha256": "bc6dbffbc74809c6cf1d86184d84485f64a4f9835d5fae307500ec22c3312280",
+    "size": [
+      900,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Characters(100x100 split)/Soldier/Soldier/Soldier_Death.png",
+    "bytes": 1673,
+    "sha256": "2968064e9692c43f7e4941a0106e5b370471f0e9beaedc5c40631d9daeb4c84e",
+    "size": [
+      400,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Characters(100x100 split)/Soldier/Soldier/Soldier_Hurt.png",
+    "bytes": 1840,
+    "sha256": "aaa0768cc7da2ce1fed3afd02ef7d8c9b2efeb4bdf797723f51c088bf729f1a6",
+    "size": [
+      400,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Characters(100x100 split)/Soldier/Soldier/Soldier_Idle.png",
+    "bytes": 1452,
+    "sha256": "572776014e1b348e8386ce587855c53e3ebd84b8fbe9041f680a917a9d3b955a",
+    "size": [
+      600,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Characters(100x100 split)/Soldier/Soldier/Soldier_Walk.png",
+    "bytes": 1860,
+    "sha256": "47ad61833e22238123b591b11d985e08858bfb5098348adee496fecb41e54954",
+    "size": [
+      800,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Characters(100x100 split)/Soldier/Soldier with shadows/Soldier.png",
+    "bytes": 13710,
+    "sha256": "fa006d32a67ef483960e9a6b616b7752367fc577a880bc430c9d4cbfbb55a553",
+    "size": [
+      900,
+      700
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Characters(100x100 split)/Soldier/Soldier with shadows/Soldier_Attack01.png",
+    "bytes": 1978,
+    "sha256": "907f5bd89b18492e7051ff3b1014a687fb8ffa501ac4486a24a1f58d198b4b20",
+    "size": [
+      600,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Characters(100x100 split)/Soldier/Soldier with shadows/Soldier_Attack02.png",
+    "bytes": 2358,
+    "sha256": "f978eb5ffba4d3446a9ffd6a6ac1ac6586c594c74d58ccab95ebd4d24e92ceaa",
+    "size": [
+      600,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Characters(100x100 split)/Soldier/Soldier with shadows/Soldier_Attack03.png",
+    "bytes": 2555,
+    "sha256": "bc6dbffbc74809c6cf1d86184d84485f64a4f9835d5fae307500ec22c3312280",
+    "size": [
+      900,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Characters(100x100 split)/Soldier/Soldier with shadows/Soldier_Death.png",
+    "bytes": 1673,
+    "sha256": "2968064e9692c43f7e4941a0106e5b370471f0e9beaedc5c40631d9daeb4c84e",
+    "size": [
+      400,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Characters(100x100 split)/Soldier/Soldier with shadows/Soldier_Hurt.png",
+    "bytes": 1840,
+    "sha256": "aaa0768cc7da2ce1fed3afd02ef7d8c9b2efeb4bdf797723f51c088bf729f1a6",
+    "size": [
+      400,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Characters(100x100 split)/Soldier/Soldier with shadows/Soldier_Idle.png",
+    "bytes": 1452,
+    "sha256": "572776014e1b348e8386ce587855c53e3ebd84b8fbe9041f680a917a9d3b955a",
+    "size": [
+      600,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Characters(100x100 split)/Soldier/Soldier with shadows/Soldier_Walk.png",
+    "bytes": 1860,
+    "sha256": "47ad61833e22238123b591b11d985e08858bfb5098348adee496fecb41e54954",
+    "size": [
+      800,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc/Characters(100x100 split)/Soldier/Soldier.aseprite",
+    "bytes": 16253,
+    "sha256": "5ddfbad3e6319b54ed9a1625bfedfb9320efd08eba00023355a8628f62779ff7",
+    "asepriteHeader": {
+      "frames": 43,
+      "width": 100,
+      "height": 100
+    },
+    "layers": [
+      "body",
+      "fx",
+      "shadow"
+    ]
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 02 v1.01-Free Demon_A&Blood Monster_A/Tiny RPG Character Asset Pack 02 -Free Demon_A&Blood Monster_A/Aseprite file/Blood Monster_A.aseprite",
+    "bytes": 12166,
+    "sha256": "f7a61c0e69e8c2c2ef89e0f4aa1b86630f852aa246a4e43e3f14195e17d19c13",
+    "asepriteHeader": {
+      "frames": 38,
+      "width": 100,
+      "height": 100
+    },
+    "layers": [
+      "body",
+      "fx",
+      "shadow"
+    ]
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 02 v1.01-Free Demon_A&Blood Monster_A/Tiny RPG Character Asset Pack 02 -Free Demon_A&Blood Monster_A/Aseprite file/Demon_A.aseprite",
+    "bytes": 14664,
+    "sha256": "4a28e1b409c7dba0d71ea961f684847c68499e7085ee3007c38016e34ebf6343",
+    "asepriteHeader": {
+      "frames": 36,
+      "width": 100,
+      "height": 100
+    },
+    "layers": [
+      "body",
+      "fx",
+      "shadow"
+    ]
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 02 v1.01-Free Demon_A&Blood Monster_A/Tiny RPG Character Asset Pack 02 -Free Demon_A&Blood Monster_A/Characters(100x100 split)/Blood Monster_A/Blood Monster_A/Blood Monster_A.png",
+    "bytes": 8914,
+    "sha256": "5ba23f4bd08b296ee55d1cf9812c9bebcb8a906bb85ecdf4b02efc792339c690",
+    "size": [
+      800,
+      600
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 02 v1.01-Free Demon_A&Blood Monster_A/Tiny RPG Character Asset Pack 02 -Free Demon_A&Blood Monster_A/Characters(100x100 split)/Blood Monster_A/Blood Monster_A/Blood Monster_A_Attack01.png",
+    "bytes": 1940,
+    "sha256": "339423743a56009dcaaeaeb19683838b590794054bdd9c990199a7aa98332a2b",
+    "size": [
+      800,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 02 v1.01-Free Demon_A&Blood Monster_A/Tiny RPG Character Asset Pack 02 -Free Demon_A&Blood Monster_A/Characters(100x100 split)/Blood Monster_A/Blood Monster_A/Blood Monster_A_Attack02.png",
+    "bytes": 1949,
+    "sha256": "623d1e94e071cca1850e517fffde213bb3da3e83a5d55e3bda1626a3046e2caa",
+    "size": [
+      800,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 02 v1.01-Free Demon_A&Blood Monster_A/Tiny RPG Character Asset Pack 02 -Free Demon_A&Blood Monster_A/Characters(100x100 split)/Blood Monster_A/Blood Monster_A/Blood Monster_A_Death.png",
+    "bytes": 1228,
+    "sha256": "f6fefb3b31c22aef6a9e11ad23b0857b38b180ab3336650e2c141e85ecc0cc6e",
+    "size": [
+      400,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 02 v1.01-Free Demon_A&Blood Monster_A/Tiny RPG Character Asset Pack 02 -Free Demon_A&Blood Monster_A/Characters(100x100 split)/Blood Monster_A/Blood Monster_A/Blood Monster_A_Hurt.png",
+    "bytes": 1501,
+    "sha256": "bfa7e3cc20ac898708bdee62aa8feb2fef62e42e1abc2dd9e4e907eb08f508ed",
+    "size": [
+      400,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 02 v1.01-Free Demon_A&Blood Monster_A/Tiny RPG Character Asset Pack 02 -Free Demon_A&Blood Monster_A/Characters(100x100 split)/Blood Monster_A/Blood Monster_A/Blood Monster_A_Idle.png",
+    "bytes": 1104,
+    "sha256": "845d2af726caada87ddf0f9b6f44f8e76798591e6de6d6d931ee1b510fa49181",
+    "size": [
+      600,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 02 v1.01-Free Demon_A&Blood Monster_A/Tiny RPG Character Asset Pack 02 -Free Demon_A&Blood Monster_A/Characters(100x100 split)/Blood Monster_A/Blood Monster_A/Blood Monster_A_Walk.png",
+    "bytes": 1455,
+    "sha256": "872780ca50651fb26c97c8b3a2c8d31abe1cd66192229d56aa9d28d4ff793ddc",
+    "size": [
+      800,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 02 v1.01-Free Demon_A&Blood Monster_A/Tiny RPG Character Asset Pack 02 -Free Demon_A&Blood Monster_A/Characters(100x100 split)/Blood Monster_A/Blood Monster_A with shadows/Blood Monster_A.png",
+    "bytes": 9496,
+    "sha256": "3a74b33b6198d418f10c03c6cd0a69a3898ed34337005b5554c8b7b4edd9702d",
+    "size": [
+      800,
+      600
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 02 v1.01-Free Demon_A&Blood Monster_A/Tiny RPG Character Asset Pack 02 -Free Demon_A&Blood Monster_A/Characters(100x100 split)/Blood Monster_A/Blood Monster_A with shadows/Blood Monster_A_Attack01.png",
+    "bytes": 2034,
+    "sha256": "1b3a8a5e58a3c2c3a058790339988fde65bbf82c0955780db4d0e22b0e7e3aec",
+    "size": [
+      800,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 02 v1.01-Free Demon_A&Blood Monster_A/Tiny RPG Character Asset Pack 02 -Free Demon_A&Blood Monster_A/Characters(100x100 split)/Blood Monster_A/Blood Monster_A with shadows/Blood Monster_A_Attack02.png",
+    "bytes": 2040,
+    "sha256": "f298366df730d339de97eef7ca94450d5021adffd3439c3f623020a8a8b45af1",
+    "size": [
+      800,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 02 v1.01-Free Demon_A&Blood Monster_A/Tiny RPG Character Asset Pack 02 -Free Demon_A&Blood Monster_A/Characters(100x100 split)/Blood Monster_A/Blood Monster_A with shadows/Blood Monster_A_Death.png",
+    "bytes": 1314,
+    "sha256": "62b98b07410406481f13e43c7d2df8a7a86dc1c4628766fc05726e996dd75d97",
+    "size": [
+      400,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 02 v1.01-Free Demon_A&Blood Monster_A/Tiny RPG Character Asset Pack 02 -Free Demon_A&Blood Monster_A/Characters(100x100 split)/Blood Monster_A/Blood Monster_A with shadows/Blood Monster_A_Hurt.png",
+    "bytes": 1577,
+    "sha256": "2313ba03fcf7d239d82420bd6964af7d4bbe9a79c1b383949032621a1d14fa2e",
+    "size": [
+      400,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 02 v1.01-Free Demon_A&Blood Monster_A/Tiny RPG Character Asset Pack 02 -Free Demon_A&Blood Monster_A/Characters(100x100 split)/Blood Monster_A/Blood Monster_A with shadows/Blood Monster_A_Idle.png",
+    "bytes": 1196,
+    "sha256": "1cb456bbc4b1030cb3473537ef730db8fb17b08370e158455b8dba77f9d6f22e",
+    "size": [
+      600,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 02 v1.01-Free Demon_A&Blood Monster_A/Tiny RPG Character Asset Pack 02 -Free Demon_A&Blood Monster_A/Characters(100x100 split)/Blood Monster_A/Blood Monster_A with shadows/Blood Monster_A_Walk.png",
+    "bytes": 1610,
+    "sha256": "7d5343fb6cfed3704c6f6e4e3ce1beb2d3d7e4d74a81b635718aaa1379b664d2",
+    "size": [
+      800,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 02 v1.01-Free Demon_A&Blood Monster_A/Tiny RPG Character Asset Pack 02 -Free Demon_A&Blood Monster_A/Characters(100x100 split)/Blood Monster_A/Blood Monster_A.aseprite",
+    "bytes": 12166,
+    "sha256": "f7a61c0e69e8c2c2ef89e0f4aa1b86630f852aa246a4e43e3f14195e17d19c13",
+    "asepriteHeader": {
+      "frames": 38,
+      "width": 100,
+      "height": 100
+    },
+    "layers": [
+      "body",
+      "fx",
+      "shadow"
+    ]
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 02 v1.01-Free Demon_A&Blood Monster_A/Tiny RPG Character Asset Pack 02 -Free Demon_A&Blood Monster_A/Characters(100x100 split)/Demon_A/Demon_A/Demon_A.png",
+    "bytes": 10426,
+    "sha256": "d81f7e56414a63895efb3481bfb8ddae2c0f0b8329f2da97954a4ff96d0e875d",
+    "size": [
+      800,
+      600
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 02 v1.01-Free Demon_A&Blood Monster_A/Tiny RPG Character Asset Pack 02 -Free Demon_A&Blood Monster_A/Characters(100x100 split)/Demon_A/Demon_A/Demon_A_Attack01.png",
+    "bytes": 1964,
+    "sha256": "684b61ffea1580deb927642d3677d7c209b8a6b09415325672f1c3f6b810c059",
+    "size": [
+      700,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 02 v1.01-Free Demon_A&Blood Monster_A/Tiny RPG Character Asset Pack 02 -Free Demon_A&Blood Monster_A/Characters(100x100 split)/Demon_A/Demon_A/Demon_A_Attack02.png",
+    "bytes": 2108,
+    "sha256": "55606ca23e2600c6dcc857acb96802740ba5444ef4075881f44608e028da1a13",
+    "size": [
+      700,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 02 v1.01-Free Demon_A&Blood Monster_A/Tiny RPG Character Asset Pack 02 -Free Demon_A&Blood Monster_A/Characters(100x100 split)/Demon_A/Demon_A/Demon_A_Death.png",
+    "bytes": 1815,
+    "sha256": "475d285b758ab4752183d1f5bf95dd47d1004468f859ed00654b6a925b37ecb8",
+    "size": [
+      400,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 02 v1.01-Free Demon_A&Blood Monster_A/Tiny RPG Character Asset Pack 02 -Free Demon_A&Blood Monster_A/Characters(100x100 split)/Demon_A/Demon_A/Demon_A_Hurt.png",
+    "bytes": 1687,
+    "sha256": "286f32c6bcf0807352123e3e2c3236212df7a3c40f577e2719da59b71959196b",
+    "size": [
+      400,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 02 v1.01-Free Demon_A&Blood Monster_A/Tiny RPG Character Asset Pack 02 -Free Demon_A&Blood Monster_A/Characters(100x100 split)/Demon_A/Demon_A/Demon_A_Idle.png",
+    "bytes": 1322,
+    "sha256": "f5327b2eeab9e57515999dc01e832c875a8db0cfccd6320d67d1d1f27eddabe1",
+    "size": [
+      600,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 02 v1.01-Free Demon_A&Blood Monster_A/Tiny RPG Character Asset Pack 02 -Free Demon_A&Blood Monster_A/Characters(100x100 split)/Demon_A/Demon_A/Demon_A_Walk.png",
+    "bytes": 1754,
+    "sha256": "b644160d0546d1dfe19ebd2b81ec87bbb001180b3be4edcb13a62235cfc32cdb",
+    "size": [
+      800,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 02 v1.01-Free Demon_A&Blood Monster_A/Tiny RPG Character Asset Pack 02 -Free Demon_A&Blood Monster_A/Characters(100x100 split)/Demon_A/Demon_A with shadows/Demon_A.png",
+    "bytes": 10937,
+    "sha256": "e413d9f746c77624295e0edc067c88e1b8edc6a134c2d0f84840ca111aaba747",
+    "size": [
+      800,
+      600
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 02 v1.01-Free Demon_A&Blood Monster_A/Tiny RPG Character Asset Pack 02 -Free Demon_A&Blood Monster_A/Characters(100x100 split)/Demon_A/Demon_A with shadows/Demon_A_Attack01.png",
+    "bytes": 2090,
+    "sha256": "b13ba519b80deab69080a09574459e9e4e2fdbcc4ff5cc32a35ea24ebd6dd327",
+    "size": [
+      700,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 02 v1.01-Free Demon_A&Blood Monster_A/Tiny RPG Character Asset Pack 02 -Free Demon_A&Blood Monster_A/Characters(100x100 split)/Demon_A/Demon_A with shadows/Demon_A_Attack02.png",
+    "bytes": 2210,
+    "sha256": "5970885d1601114806c813b4d5116fe4231e3b40d3be325d55e023c093a1b210",
+    "size": [
+      700,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 02 v1.01-Free Demon_A&Blood Monster_A/Tiny RPG Character Asset Pack 02 -Free Demon_A&Blood Monster_A/Characters(100x100 split)/Demon_A/Demon_A with shadows/Demon_A_Death.png",
+    "bytes": 1863,
+    "sha256": "507e03c37c2a2bc037eff25451071bad510a79d5e66e9907a443634b136cc765",
+    "size": [
+      400,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 02 v1.01-Free Demon_A&Blood Monster_A/Tiny RPG Character Asset Pack 02 -Free Demon_A&Blood Monster_A/Characters(100x100 split)/Demon_A/Demon_A with shadows/Demon_A_Hurt.png",
+    "bytes": 1733,
+    "sha256": "71b0d5212f39a8fec324bf9cf3705d850785e9617a40b993986ddee2101e01e1",
+    "size": [
+      400,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 02 v1.01-Free Demon_A&Blood Monster_A/Tiny RPG Character Asset Pack 02 -Free Demon_A&Blood Monster_A/Characters(100x100 split)/Demon_A/Demon_A with shadows/Demon_A_Idle.png",
+    "bytes": 1393,
+    "sha256": "5fb18060aace8fd858a129a9a210ad82e7340f97bd3de81b21691a20a5d6b773",
+    "size": [
+      600,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 02 v1.01-Free Demon_A&Blood Monster_A/Tiny RPG Character Asset Pack 02 -Free Demon_A&Blood Monster_A/Characters(100x100 split)/Demon_A/Demon_A with shadows/Demon_A_Walk.png",
+    "bytes": 1845,
+    "sha256": "0b1b4194e0f4afc5356d00a681d0a07e79b97f86e52490f18dd0d7cd2002259c",
+    "size": [
+      800,
+      100
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "Tiny RPG Character Asset Pack 02 v1.01-Free Demon_A&Blood Monster_A/Tiny RPG Character Asset Pack 02 -Free Demon_A&Blood Monster_A/Characters(100x100 split)/Demon_A/Demon_A.aseprite",
+    "bytes": 14664,
+    "sha256": "4a28e1b409c7dba0d71ea961f684847c68499e7085ee3007c38016e34ebf6343",
+    "asepriteHeader": {
+      "frames": 36,
+      "width": 100,
+      "height": 100
+    },
+    "layers": [
+      "body",
+      "fx",
+      "shadow"
+    ]
+  },
+  {
+    "path": "mystic_woods_free_2.2/Get the Premium Version!.url",
+    "bytes": 141,
+    "sha256": "365a6b7ed173611fcaaac346b42c6155f34cdd93881755c75d24d16d44c2fe7c"
+  },
+  {
+    "path": "mystic_woods_free_2.2/Rate This Pack!.url",
+    "bytes": 137,
+    "sha256": "271a1c5bdacd6970665dbcf2680e15467bb5d061ad24315e20ef93348035af3b"
+  },
+  {
+    "path": "mystic_woods_free_2.2/read_me.txt",
+    "bytes": 560,
+    "sha256": "877189c49d7ef3824ec276c80241a72339eda115d1ebeeb843fff2cc0ca68cb5"
+  },
+  {
+    "path": "mystic_woods_free_2.2/sprites/characters/README.txt",
+    "bytes": 336,
+    "sha256": "91033d67e69f5556cf4562debce0da3042c9473a5797b224fcc63226552822b3"
+  },
+  {
+    "path": "mystic_woods_free_2.2/sprites/characters/player.png",
+    "bytes": 10107,
+    "sha256": "0d7cb5c2590f6a48cacd38e32c8de4665476bee7e1433a6fbb892f1c3228cad1",
+    "size": [
+      288,
+      480
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "mystic_woods_free_2.2/sprites/characters/skeleton.png",
+    "bytes": 271376,
+    "sha256": "b416e73d7d6a51ef545e7ee8f785e06ff4ed267ed3a1d8a6adb32ef01ea18654",
+    "size": [
+      288,
+      624
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "mystic_woods_free_2.2/sprites/characters/skeleton_swordless.png",
+    "bytes": 270461,
+    "sha256": "f7e49f6272de59721f345889ec42aab7a7a2864e9fa5fa8006a4eb03a0098a9c",
+    "size": [
+      288,
+      624
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "mystic_woods_free_2.2/sprites/characters/slime.png",
+    "bytes": 7379,
+    "sha256": "b01cd4b8ec9ee8ef7dd0ef1da1dcf24fe9f33a0c37ccac1e3b285fa942333f81",
+    "size": [
+      224,
+      416
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "mystic_woods_free_2.2/sprites/objects/chest_01.png",
+    "bytes": 573,
+    "sha256": "a873493abb5cb14f44a3da6a1b99a0701e75419b68593cea67551e203383215c",
+    "size": [
+      64,
+      16
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "mystic_woods_free_2.2/sprites/objects/chest_02.png",
+    "bytes": 2130,
+    "sha256": "acff9308d2ed3cc27c4c0f70053cccb5eeadde13ed2e9787fb6ad2e38b59dd45",
+    "size": [
+      64,
+      16
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "mystic_woods_free_2.2/sprites/objects/objects.png",
+    "bytes": 74357,
+    "sha256": "9e62472020f4ad59c5d0223275aec5eb2b21279dfe83306623df1fa980c0eb52",
+    "size": [
+      256,
+      208
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "mystic_woods_free_2.2/sprites/objects/rock_in_water-sheet.png",
+    "bytes": 3096,
+    "sha256": "de530939ef9542b1c848b5a9253f42458a59f9c4d1e5e71dca3642d94159cfd6",
+    "size": [
+      96,
+      16
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "mystic_woods_free_2.2/sprites/objects/rock_in_water_01-sheet.png",
+    "bytes": 3096,
+    "sha256": "de530939ef9542b1c848b5a9253f42458a59f9c4d1e5e71dca3642d94159cfd6",
+    "size": [
+      96,
+      16
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "mystic_woods_free_2.2/sprites/objects/rock_in_water_01.png",
+    "bytes": 673,
+    "sha256": "546ca096539e1dccf45f7a754df0ee980c48d1947a5e1e644620af522e2fca69",
+    "size": [
+      16,
+      16
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "mystic_woods_free_2.2/sprites/objects/rock_in_water_02.png",
+    "bytes": 674,
+    "sha256": "41a5a41eb137ee6999e0494e241713cf124c50fd4fdd1d6de0260758b2b0cb5a",
+    "size": [
+      16,
+      16
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "mystic_woods_free_2.2/sprites/objects/rock_in_water_03.png",
+    "bytes": 676,
+    "sha256": "7b9d7e2ce54f8233d4531574a62e58290178bf5858c54a68856194542c6fbbfd",
+    "size": [
+      16,
+      16
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "mystic_woods_free_2.2/sprites/objects/rock_in_water_04.png",
+    "bytes": 675,
+    "sha256": "af021e8d4189def557794c3c9333624c1c8d3bb0e66b1bf792057aba9a5324f4",
+    "size": [
+      16,
+      16
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "mystic_woods_free_2.2/sprites/objects/rock_in_water_05.png",
+    "bytes": 680,
+    "sha256": "8df75870f0a0da57647df3cfffe531838862a54fd652dd8b94819c235e97a4ff",
+    "size": [
+      16,
+      16
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "mystic_woods_free_2.2/sprites/objects/rock_in_water_06.png",
+    "bytes": 674,
+    "sha256": "41a5a41eb137ee6999e0494e241713cf124c50fd4fdd1d6de0260758b2b0cb5a",
+    "size": [
+      16,
+      16
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "mystic_woods_free_2.2/sprites/particles/dust_particles_01.png",
+    "bytes": 178,
+    "sha256": "9b7bbbbebd18257d47580955dda9dfb494fad98185134ef1b46efe4e588666d5",
+    "size": [
+      48,
+      12
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "mystic_woods_free_2.2/sprites/tilesets/decor_16x16.png",
+    "bytes": 5818,
+    "sha256": "b838e8ee37bfabc16a493daba81a4ca4357a37d07225e9aaea72ff5b8418ef4b",
+    "size": [
+      64,
+      80
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "mystic_woods_free_2.2/sprites/tilesets/decor_8x8.png",
+    "bytes": 1573,
+    "sha256": "a0bc11cd4ff834810874abf0f1f94dc3172a476348b8f2eca29418f785561ebb",
+    "size": [
+      32,
+      32
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "mystic_woods_free_2.2/sprites/tilesets/fences.png",
+    "bytes": 722,
+    "sha256": "424e98da1a10597d18e97b188ba0e49199177f4375f1e673ab0f4a53a39e5c01",
+    "size": [
+      64,
+      64
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "mystic_woods_free_2.2/sprites/tilesets/floors/carpet.png",
+    "bytes": 20319,
+    "sha256": "94cb3b9d7156875dd0f6154e470fa5834aa24db947808e70e8c770ffbe7cf217",
+    "size": [
+      96,
+      128
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "mystic_woods_free_2.2/sprites/tilesets/floors/flooring.png",
+    "bytes": 6552,
+    "sha256": "fb36eaebfc71169f2081b4869139c9e41b3ac768d6c0b93cc5ef291ac2747bd1",
+    "size": [
+      80,
+      48
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "mystic_woods_free_2.2/sprites/tilesets/floors/wooden.png",
+    "bytes": 187,
+    "sha256": "a20163b6fd47a8e3f6d5527c99ef3280bc5862144035070601b3ff74bbcde19b",
+    "size": [
+      16,
+      16
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "mystic_woods_free_2.2/sprites/tilesets/grass.png",
+    "bytes": 99,
+    "sha256": "aa36d72f84508b010c7c0cdc8a6ba141f8961b92086d275b797d43093e62fb27",
+    "size": [
+      16,
+      16
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "mystic_woods_free_2.2/sprites/tilesets/plains.png",
+    "bytes": 14752,
+    "sha256": "18e2c1883eb44e8de4b1581422c18a1cb48ca68329d21fc0e38562d3ab5033d6",
+    "size": [
+      96,
+      192
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "mystic_woods_free_2.2/sprites/tilesets/walls/walls.png",
+    "bytes": 1955,
+    "sha256": "e26a59c0cf643aaaa8a5972cd8de1b2554ec72415923604cd5331df9f3078f2f",
+    "size": [
+      128,
+      128
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "mystic_woods_free_2.2/sprites/tilesets/walls/wooden_door.png",
+    "bytes": 285,
+    "sha256": "adb20bbf3b1d3d1b8a218349b81205ea253d89d06c44346251de4d47c7af2c47",
+    "size": [
+      32,
+      16
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "mystic_woods_free_2.2/sprites/tilesets/walls/wooden_door_b.png",
+    "bytes": 283,
+    "sha256": "9036998ac2c9549348a542816030bb88c5d3e34f724d3e07260d46a3dddf214d",
+    "size": [
+      32,
+      16
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "mystic_woods_free_2.2/sprites/tilesets/water-sheet.png",
+    "bytes": 36098,
+    "sha256": "b598977b97321b00d418b3bad8dc4b2339b7a388b662ae3b092a1650aed385e1",
+    "size": [
+      480,
+      48
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "mystic_woods_free_2.2/sprites/tilesets/water1.png",
+    "bytes": 10530,
+    "sha256": "da7450b06688b7e87bedc474f3e7aafff33e68355fbb975e50a724c4d74ed6e6",
+    "size": [
+      96,
+      64
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "mystic_woods_free_2.2/sprites/tilesets/water2.png",
+    "bytes": 10473,
+    "sha256": "9b85c8eb6da3d03a3663b519676a042d14192459317ebfbc78b781bf39baf93f",
+    "size": [
+      96,
+      64
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "mystic_woods_free_2.2/sprites/tilesets/water3.png",
+    "bytes": 10517,
+    "sha256": "bcb877948326371d8c91497d57addf407856d7bead69e9adfa5b314eb2265cfb",
+    "size": [
+      96,
+      64
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "mystic_woods_free_2.2/sprites/tilesets/water4.png",
+    "bytes": 10490,
+    "sha256": "31a817f1bba707bd44e816c1e4dac720aac4c39dd53ca7032b0e62dc1f602923",
+    "size": [
+      96,
+      64
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "mystic_woods_free_2.2/sprites/tilesets/water5.png",
+    "bytes": 10473,
+    "sha256": "9b85c8eb6da3d03a3663b519676a042d14192459317ebfbc78b781bf39baf93f",
+    "size": [
+      96,
+      64
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "mystic_woods_free_2.2/sprites/tilesets/water6.png",
+    "bytes": 10522,
+    "sha256": "9d40fd22a84e0c63ff546a2b3b54cddec3b641084f9b77c9ddb57c3ae5b87632",
+    "size": [
+      96,
+      64
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "mystic_woods_free_2.2/sprites/tilesets/water_decorations.png",
+    "bytes": 5932,
+    "sha256": "85ff427036cf9d42eaae7c885b1f312ed188aa9921e89aec98a6fb5364553f99",
+    "size": [
+      96,
+      32
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "mystic_woods_free_2.2/sprites/tilesets/water_lillies.png",
+    "bytes": 3206,
+    "sha256": "0b268c0eb13a36746b335ce7798836f6e2366d3d084247b057d5e2c8a4e91c24",
+    "size": [
+      96,
+      16
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "path": "pixel_16_woods v2 free/free_pixel_16_woods.png",
+    "bytes": 16669,
+    "sha256": "8b31588ae4299cf2b11c888e9ed6c872b6ae0b0b9301fae19fe5a0751632d812",
+    "size": [
+      352,
+      192
+    ],
+    "mode": "RGBA"
+  }
+]

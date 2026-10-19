@@ -1,0 +1,10 @@
+{
+  "version": "0.3.1",
+  "scope": "阶段修正：移除主角复用/换色敌人，分散药水；六个新敌人等待素材，未完成",
+  "sha256Verified": true,
+  "sourceZipVerified": true,
+  "browser": "Chrome HTTP actual build: forest selection, start, map overview",
+  "evidence": "005-forest-distribution.png",
+  "oldBuildsPreserved": true,
+  "note": "验证记录和随后素材索引修订在工作区，旧快照不覆盖"
+}

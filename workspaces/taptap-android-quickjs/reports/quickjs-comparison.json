@@ -1,0 +1,16 @@
+{
+  "runtime": "QuickJS 2026-06-04",
+  "platform": "darwin",
+  "architecture": "arm64",
+  "comparedResponses": 1270,
+  "numberTolerance": "relative 1e-8",
+  "cases": [
+    "4 stages / 1200 frames",
+    "LPC draw commands",
+    "pause/resume/retry",
+    "forest reboot / 60 frames",
+    "malformed JSON, failed boot, recovery, close"
+  ],
+  "result": "PASS",
+  "androidValidated": false
+}

@@ -1,0 +1,9 @@
+{
+  "build": "/Users/kafufu/pixalf/builds/workshop-021-20261012T030739Z",
+  "testExit": 0,
+  "fileCount": 435,
+  "hashMismatches": [],
+  "classicDemoMismatches": [],
+  "nativeArchitectures": "Architectures in the fat file: /Users/kafufu/pixalf/builds/workshop-021-20261012T030739Z/Thornbound Workshop.app/Contents/Resources/game/native/libclassic.dylib are: x86_64 arm64",
+  "signatureExit": 0
+}

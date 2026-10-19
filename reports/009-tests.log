@@ -1,0 +1,119 @@
+
+> thornbound@0.6.0 test
+> node --check index.js && node tests/combat.mjs && node tests/trials.mjs && node tests/jump-knockback.mjs && node tests/fire-beam.mjs && node tests/playthrough.mjs
+
+Forest regression: two characters, six separated reachable potion regions, effects/expiry/pause/respawn, river collision, damaged/denied storage recovery passed.
+{
+  "version": "0.6.0",
+  "checks": [
+    "exactly one selected player and one living companion, no in-run character switching",
+    "first locked gate blocks walking and dash",
+    "unique answers; full three-second deadline; pause freezes; wrong tile falls with animation; retry resets current stage",
+    "two answers open first gate; corridor checkpoint retry; pendulum damages; dungeon never auto-wins at 150 seconds",
+    "final three answers required, exit cannot bypass puzzle, third exit advances to fourth checkpoint; final exit writes four-stage campaign record",
+    "stepping off surviving tile during collapse also falls"
+  ]
+}
+{"slimePushPixels":23.833406658599984,"checks":["monster push, invulnerability prevents duplicate push, collision prevents wall/river tunnelling","jump no double jump, cooldown, pause freeze, safe gap landing","walking/ground dash gap fails, landing off beam fails","fourth checkpoint retries with jump/push cleared","rotating hammer hits ground; jumping clears hammer and slime","trap trajectory rendering removed"]}
+Extended beam: 1696 px, three gaps each jumpable and lethal on foot; fire flies, fires travelling bolts, damages/pushes, pause/retry clears/freeze; airborne dodge; hammer knockback can cause lava fall; fire spawns outside map.
+[
+  {
+    "leader": 0,
+    "scenario": "normal stats; attack/skill and click navigation; no fixture teleports or health changes",
+    "mode": "won",
+    "time": 49.45098899999972,
+    "trial": {
+      "stage": 3,
+      "phase": "idle",
+      "round": 0,
+      "required": 2,
+      "timer": 0,
+      "open": true,
+      "question": "",
+      "answer": 0,
+      "numbers": [],
+      "safe": -1,
+      "fall": 0,
+      "completed": 4,
+      "checkpoint": 3,
+      "cleared": true
+    },
+    "health": [
+      153,
+      113
+    ],
+    "spawns": 78,
+    "visited": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "leader": 1,
+    "scenario": "normal stats; attack/skill and click navigation; no fixture teleports or health changes",
+    "mode": "won",
+    "time": 51.03435399999955,
+    "trial": {
+      "stage": 3,
+      "phase": "idle",
+      "round": 0,
+      "required": 2,
+      "timer": 0,
+      "open": true,
+      "question": "",
+      "answer": 0,
+      "numbers": [],
+      "safe": -1,
+      "fall": 0,
+      "completed": 4,
+      "checkpoint": 3,
+      "cleared": true
+    },
+    "health": [
+      148,
+      215
+    ],
+    "spawns": 82,
+    "visited": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "leader": 2,
+    "scenario": "normal stats; attack/skill and click navigation; no fixture teleports or health changes",
+    "mode": "won",
+    "time": 45.46757600000015,
+    "trial": {
+      "stage": 3,
+      "phase": "idle",
+      "round": 0,
+      "required": 2,
+      "timer": 0,
+      "open": true,
+      "question": "",
+      "answer": 0,
+      "numbers": [],
+      "safe": -1,
+      "fall": 0,
+      "completed": 4,
+      "checkpoint": 3,
+      "cleared": true
+    },
+    "health": [
+      215,
+      127
+    ],
+    "spawns": 76,
+    "visited": [
+      0,
+      1,
+      2,
+      3
+    ]
+  }
+]

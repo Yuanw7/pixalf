@@ -1,0 +1,7 @@
+{
+  "source": "builds/0.8.0/game/index.js",
+  "sha256": "2f23b9fef6aebda343b59a0a8166addaba664841b10ffc64bebd28cf7416b5f6",
+  "removed": "asynchronous browser image loading only",
+  "added": "Godot render-command recorder and typed input/state bridge",
+  "assets": 43
+}

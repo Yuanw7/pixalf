@@ -1,0 +1,21 @@
+{
+  "version": "0.6.0",
+  "source": "Two user attachments in this request, copied unchanged.",
+  "fireProduction": {
+    "tool": "built-in image_gen.imagegen",
+    "intent": "new sprite derived from visual reference",
+    "prompt": "Use case: stylized-concept. Asset: one standalone pixel art fire elemental enemy for a top-down 2D dungeon game. Reference image is visual style and subject reference only. Create a new recognizable flame-shaped creature with bright yellow core, orange/red outer flames, dark burgundy pixel outline, two small ivory eyes with dark pupils and a mischievous open mouth. No limbs, no weapons, no other subjects. Preserve chunky deliberate square pixel steps, limited 10-color palette, no soft gradients or antialiasing, like a 48x64 game sprite enlarged nearest-neighbor. Full creature centered, occupies 85% of canvas height, compact rounded base with pointed licking flames and a few tiny ember pixels. Transparent background with genuine alpha, no checkerboard, no text, no logo or watermark. Output a single sprite, not a sprite sheet.",
+    "transparent_background": true,
+    "originalGeneratedPath": "/Users/kafufu/.codex/generated_images/01a1141d-d7e6-70a1-9139-5eccff9ff534/exec-617a2494-c75e-4074-ada4-324982af77fb.png"
+  },
+  "files": {
+    "fire-elemental.png": "9bd5a8950415dbbb1c428d37b3bad0b750e93041f6140ad8d3c8d6f7854b309b",
+    "lava-reference.png": "0384734b166f1a82b1b3b62cf08daf93082dd8dfb38b02f9a5b9e10080067f4c",
+    "fire-reference.png": "af7fedbb0ed54cc0564cd7e6c7ca4e378ba50f14eecec3856e6e5b35ed1e2433"
+  },
+  "review": {
+    "technical": "Chrome scene verified",
+    "userApproval": "pending"
+  },
+  "rollback": "builds/0.5.0/game"
+}

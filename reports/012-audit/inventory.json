@@ -1,0 +1,79 @@
+{
+  "version": "0.8.0",
+  "pack": "assets/originals/Trap and Weapon.zip",
+  "packSha256": "c0c5bfe3897b1fcc8f083675bec30484d92e5a5fa42f36937e57006b3cb89c4c",
+  "packFiles": 227,
+  "newKeys": {
+    "TrapFireBox": {
+      "file": "FireBox.png",
+      "sha256": "a6647fd0ffd97141c21f5de3c4b2bcfd332e04368fa8dd3cd96c11a2fe1a75e0",
+      "bytes": 687
+    },
+    "TrapFire": {
+      "file": "Fire.png",
+      "sha256": "fb35b884576dd95db09e5cd32a64cb77273adb8b8c8a6273f37d41a276bc6ae9",
+      "bytes": 300
+    },
+    "TrapFan": {
+      "file": "Fan.png",
+      "sha256": "394880bb97307d922c1f00ec6db57e2d5ba02aafb2c7b33f45499e23d5488cc8",
+      "bytes": 542
+    },
+    "TrapBomb": {
+      "file": "Bomb.png",
+      "sha256": "5067c471c059f09c177b0a58f79128ba4dbd026610303ce91acd3ad3723ff68e",
+      "bytes": 841
+    },
+    "TrapRock": {
+      "file": "FallingRock.png",
+      "sha256": "449499be099e1dafc5e9c5ed707321e0a63e6b6648b0a4c5441cf83bccbae730",
+      "bytes": 1336
+    },
+    "TrapBrick": {
+      "file": "Brick1.png",
+      "sha256": "4f6c03557d961d135633a30fb847cb1700dff541986f22acff5ec38dbfcc7b3a",
+      "bytes": 1279
+    },
+    "TrapWall": {
+      "file": "Trap_Spike.png",
+      "sha256": "6c8d402121d8f6fcd8d53c335836fc1b5e446ee65d327c22144a65a3c3140ffc",
+      "bytes": 1203
+    }
+  },
+  "existingKeys": {
+    "TrapSpikes": {
+      "file": "Spike_B.png",
+      "sha256": "884fc9a6300fbd0c28a7d561a4bf48907b9bf35c2e45b4cdb09720187a117a44",
+      "bytes": 987
+    },
+    "TrapSaw": {
+      "file": "Suriken.png",
+      "sha256": "9bfaa0b734ed529b82f4ad4feead1a81ca79bf838aa1fb7775ba78651ba3262d",
+      "bytes": 3258
+    },
+    "TrapBow": {
+      "file": "Shooter_Arrow_Trap.png",
+      "sha256": "8fd07f08c68a4d07f25a8565bafc72ee76e77a867e622150facc7c4611b2d697",
+      "bytes": 511
+    },
+    "TrapPlatform": {
+      "file": "FallingPlatfrom.png",
+      "sha256": "466488a267431f9b30b3306eb1af70034c2bd30ec236b3495d89370a8632f33d",
+      "bytes": 554
+    },
+    "TrapMace": {
+      "file": "SpikeBall.png",
+      "sha256": "b315ec5f839009dae8329ed31439629b2e1047b56facd9cf2ccfbb93a9295c35",
+      "bytes": 694
+    }
+  },
+  "notAdopted": [
+    "Jumper",
+    "Spear",
+    "Brick1 split pieces",
+    "Moving Platfrom_*",
+    "00-32 hanging/ceiling pieces",
+    "Rocket Bullet frames",
+    "Bomb rocket/gun sheets"
+  ]
+}

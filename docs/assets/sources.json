@@ -1,0 +1,53 @@
+[
+  {
+    "source": "assets/originals/Icons.rar",
+    "sha256": "88450f5eddf2380b36e8eac84e3abb18a053755f947ad6d456c8e1f0295ab39f",
+    "origin": "用户提供 /Users/kafufu/Desktop/素材",
+    "originalPreserved": true
+  },
+  {
+    "source": "assets/originals/RF_Catacombs_v1.0.zip",
+    "sha256": "90edcca3feca079db644afcd24ed200e1787127c294b28823accfbbb9a39e86e",
+    "origin": "用户提供 /Users/kafufu/Desktop/素材",
+    "originalPreserved": true
+  },
+  {
+    "source": "assets/originals/Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc.zip",
+    "sha256": "9f1818c7ddc17b99e4bae81feae8b25a3692bf6bc269bb2797e36bd7faec3ba2",
+    "origin": "用户提供 /Users/kafufu/Desktop/素材",
+    "originalPreserved": true
+  },
+  {
+    "source": "assets/originals/Tiny RPG Character Asset Pack 02 v1.01-Free Demon_A&Blood Monster_A.zip",
+    "sha256": "3e805180b49479a3ad5367d33b81316bc967078b57c644af11afecb5ac26ffeb",
+    "origin": "用户提供 /Users/kafufu/Desktop/素材",
+    "originalPreserved": true
+  },
+  {
+    "source": "assets/originals/mystic_woods_free_2.2.zip",
+    "sha256": "c6e954f1b0c365b49476c5487bad7a88a0241c3d0c8afde8fb52ecb905b09a73",
+    "origin": "用户提供 /Users/kafufu/Desktop/素材",
+    "originalPreserved": true
+  },
+  {
+    "source": "assets/originals/pixel_16_woods v2 free.zip",
+    "sha256": "85411ba94b2ddebb9c1384c4b8c932812127b6e5ad8da4f2a3166db9870eb045",
+    "origin": "用户提供 /Users/kafufu/Desktop/素材",
+    "originalPreserved": true,
+    "inspection": "仅地形图集，未接入战斗角色"
+  },
+  {
+    "source": "assets/originals/Topdown Monsters Part 1 Free.rar",
+    "sha256": "e2561ffb99f988857cdda75eadd90c1f586dd3a1bf7dc58bca733feadce01153",
+    "origin": "用户本轮提供 /Users/kafufu/Desktop/素材",
+    "originalPreserved": true,
+    "inspection": "完整文件清单与选材见audit-011.md"
+  },
+  {
+    "source": "assets/originals/Trap and Weapon.zip",
+    "sha256": "c0c5bfe3897b1fcc8f083675bec30484d92e5a5fa42f36937e57006b3cb89c4c",
+    "origin": "用户本轮提供 /Users/kafufu/Desktop/素材",
+    "originalPreserved": true,
+    "inspection": "完整文件清单与选材见audit-011.md"
+  }
+]

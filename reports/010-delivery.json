@@ -1,0 +1,30 @@
+{
+  "version": "0.6.1",
+  "checkedAt": "2026-10-07T06:56:39.547621+00:00",
+  "manifestHashes": {
+    "source.zip": true,
+    "START_HERE.txt": true,
+    "game/index.html": true,
+    "game/index.js": true,
+    "game/style.css": true,
+    "game/assets.js": true
+  },
+  "sourceArchiveIntegrity": true,
+  "runtimeSourceEquality": {
+    "index.js": true,
+    "index.html": true,
+    "style.css": true,
+    "assets.js": true
+  },
+  "testLog": "reports/010-tests.log",
+  "normalPlaythrough": "reports/010-normal-play.json",
+  "browser": {
+    "entry": "http://127.0.0.1:5173/builds/0.6.1/game/index.html",
+    "actualPackageMenuVerified": true,
+    "warningsAndErrors": [],
+    "scene": "reports/010-lava-patrol.png",
+    "sceneScope": "Isolated stage-four QA; actual live enemy movement/hit checked, not a full browser campaign."
+  },
+  "previousVersionPreserved": true,
+  "userExperienceApproval": "pending"
+}

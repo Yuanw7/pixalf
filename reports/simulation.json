@@ -1,0 +1,18 @@
+{
+  "passed": [
+    "22 assets",
+    "movement",
+    "switch",
+    "skill cooldown",
+    "pause freezes time",
+    "AI cooperation",
+    "three waves / 24 kills / victory",
+    "versioned record",
+    "restart resets",
+    "invalid storage recovery",
+    "all down defeat",
+    "write failure recovery"
+  ],
+  "win": "{\"version\":1,\"best\":24,\"last\":{\"kills\":24,\"time\":22,\"win\":true}}",
+  "restartAfterLoss": "playing"
+}

@@ -1,0 +1,106 @@
+[
+  {
+    "pack": "CompleteUI",
+    "archive": "Complete_UI_Essential_Pack_Free.7z",
+    "files": 104,
+    "png": 100,
+    "scope": "UI按钮、槽位、勾选、展开/收起与播放图标；本次使用按钮背景、播放和折叠图标。",
+    "limits": "不用于地形或角色。仅选择一套Flat样式，避免混用多套UI。"
+  },
+  {
+    "pack": "FantasyUI",
+    "archive": "FantasyUIfree.zip",
+    "files": 4,
+    "png": 4,
+    "scope": "木质幻想菜单、龙形血条；候选用于以后角色/首领血条。",
+    "limits": "本次不混入工坊工具界面；整张图集需定义切片，不能直接当角色或装备。"
+  },
+  {
+    "pack": "PixelUI3",
+    "archive": "Pixel UI pack 3.zip",
+    "files": 9,
+    "png": 9,
+    "scope": "像素边框、状态条、进度/选中效果；候选用于装备稀有度框和技能冷却。",
+    "limits": "偏高饱和/科幻。当前地牢主题暂不混搭，后续限定状态提示。"
+  },
+  {
+    "pack": "RavenIcons",
+    "archive": "Free - Raven Fantasy Icons.zip",
+    "files": 6581,
+    "png": 6580,
+    "scope": "2192个独立16×16图标，同时有32/64倍图。本次用于地图大厅、保存/帮助；武器与装备图标预留给后续装备界面。",
+    "limits": "图标不是角色动作或可穿戴分层贴图；不同尺寸不能算不同道具。"
+  },
+  {
+    "pack": "CyberpunkMelee",
+    "archive": "Free-Melee-Weapon-Pixel-Icons-for-Cyberpunk.zip",
+    "files": 46,
+    "png": 41,
+    "scope": "40个32×32近战武器图标和预览/源文件。本次只用于装备规划预览；后续用于背包、物品定义、拾取。",
+    "limits": "不是完整挥舞动画；赛博色彩先划为独立装备组。角色持握需锚点/方向/动作帧，不能用图标替代全部动作。"
+  },
+  {
+    "pack": "Icons",
+    "archive": "Icons.rar",
+    "files": 32,
+    "png": 32,
+    "scope": "原项目血药、增益和HUD图标，保留既有用途。",
+    "limits": "无动作帧，不作为敌人或完整角色。"
+  },
+  {
+    "pack": "RF_Catacombs_v1.0",
+    "archive": "RF_Catacombs_v1.0.zip",
+    "files": 26,
+    "png": 19,
+    "scope": "地牢地面/墙体/装饰、烛火、地刺帧；本次继续作为房间绘制基底。",
+    "limits": "地刺帧与专用陷阱包归同类，不重复计为新机关。材质样式作为一致性基准。"
+  },
+  {
+    "pack": "Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc",
+    "archive": "Tiny RPG Character Asset Pack 01 v2.0 -Free Soldier&Orc.zip",
+    "files": 38,
+    "png": 34,
+    "scope": "士兵和兽人主角动画。本次保持第一位士兵作为工坊角色，未来装备计划以士兵体型为基准。",
+    "limits": "原角色武器/盾牌已画入帧；未提供裸模和全套分层护甲。自由换装需重新分层/补帧。"
+  },
+  {
+    "pack": "Tiny RPG Character Asset Pack 02 v1.01-Free Demon_A&Blood Monster_A",
+    "archive": "Tiny RPG Character Asset Pack 02 v1.01-Free Demon_A&Blood Monster_A.zip",
+    "files": 32,
+    "png": 28,
+    "scope": "恶魔主角与血怪动画；原网页主角/怪物沿用。",
+    "limits": "不将换色或同一人物改名统计成独立怪物；本次不扩展工坊角色阵容。"
+  },
+  {
+    "pack": "TopdownMonstersPart1Free",
+    "archive": "Topdown Monsters Part 1 Free.rar",
+    "files": 13,
+    "png": 12,
+    "scope": "俯视怪物动画，原网页独立敌人与终点守卫。",
+    "limits": "本次仍不迁移完整战斗系统；不当作装备人物底模。"
+  },
+  {
+    "pack": "TrapAndWeapon",
+    "archive": "Trap and Weapon.zip",
+    "files": 227,
+    "png": 226,
+    "scope": "14类独立陷阱/机关资产。本次工坊使用12类：地刺、炸弹、旋转刺阵、锯轮、摆动刺球、伸缩长矛、箭塔、火焰箱、风扇、落石、塌落平台、弹簧。",
+    "limits": "保留移动平台和碎裂砖为后续。弹簧/风扇属辅助机关。链条、底座、方向帧、发射物不单独计数。Root数字PNG和Rocket Bullet为弹药/武器/特效图，不虚报为独立机关。"
+  },
+  {
+    "pack": "mystic_woods_free_2.2",
+    "archive": "mystic_woods_free_2.2.zip",
+    "files": 40,
+    "png": 36,
+    "scope": "森林地形、草木与角色；原网页森林地图沿用。",
+    "limits": "本次工坊保持地牢地面，不混入树林材质。"
+  },
+  {
+    "pack": "pixel_16_woods v2 free",
+    "archive": "pixel_16_woods v2 free.zip",
+    "files": 1,
+    "png": 1,
+    "scope": "16px森林装饰/瓦片，原网页环境辅助。",
+    "limits": "保持对应像素比例，不用作陷阱动画或装备动作。"
+  }
+]

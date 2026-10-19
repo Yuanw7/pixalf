@@ -1,0 +1,9 @@
+{
+  "asset": "wooden-sentinel.png",
+  "tool": "built-in image_gen.imagegen",
+  "prompt": "Use case: stylized-concept. Asset: single transparent sprite of an original wooden sentinel boss for a top-down pixel-art stone dungeon game. A squat sinister carved wooden doll automaton, rounded wooden head, simple carved face, two small glowing crimson lens eyes, dark moss-green tunic, brass joints, roots forming feet, tiny red warning lantern on chest. Full body front view with subtle top-down perspective, silhouette legible at 96x128 game pixels. Chunky square pixels as if 48x64 sprite enlarged nearest neighbor, limited earthy brown/olive/brass palette, crisp dark outline, no blur, no smooth gradients. Symmetrical stationary pose, arms hanging. Boss looks mechanical and ancient rather than human child. Centered one character occupying 85% height. Genuine transparent alpha background. No scenery, no ground, no text, no logo, no sheet, no multiple poses.",
+  "transparent_background": true,
+  "source": "original generated image, copied without editing",
+  "originalPath": "/Users/kafufu/.codex/generated_images/01a1141d-d7e6-70a1-9139-5eccff9ff534/exec-1c52dbb7-706e-439b-94ab-112bbe2f91eb.png",
+  "review": "Actual Godot render inspected; user approval pending"
+}

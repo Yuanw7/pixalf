@@ -1,0 +1,101 @@
+[
+  {
+    "leader": 0,
+    "scenario": "normal stats; attack/skill, click navigation and status-driven hazard reactions; no fixture teleports or health changes",
+    "mode": "won",
+    "time": 52.98439299999934,
+    "trial": {
+      "stage": 3,
+      "phase": "idle",
+      "round": 0,
+      "required": 2,
+      "timer": 0,
+      "open": true,
+      "question": "",
+      "answer": 0,
+      "numbers": [],
+      "safe": -1,
+      "fall": 0,
+      "completed": 4,
+      "checkpoint": 3,
+      "cleared": true
+    },
+    "health": [
+      161,
+      101
+    ],
+    "spawns": 123,
+    "visited": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "leader": 1,
+    "scenario": "normal stats; attack/skill, click navigation and status-driven hazard reactions; no fixture teleports or health changes",
+    "mode": "won",
+    "time": 53.517736999999286,
+    "trial": {
+      "stage": 3,
+      "phase": "idle",
+      "round": 0,
+      "required": 2,
+      "timer": 0,
+      "open": true,
+      "question": "",
+      "answer": 0,
+      "numbers": [],
+      "safe": -1,
+      "fall": 0,
+      "completed": 4,
+      "checkpoint": 3,
+      "cleared": true
+    },
+    "health": [
+      145,
+      199
+    ],
+    "spawns": 129,
+    "visited": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "leader": 2,
+    "scenario": "normal stats; attack/skill, click navigation and status-driven hazard reactions; no fixture teleports or health changes",
+    "mode": "won",
+    "time": 45.9509190000001,
+    "trial": {
+      "stage": 3,
+      "phase": "idle",
+      "round": 0,
+      "required": 2,
+      "timer": 0,
+      "open": true,
+      "question": "",
+      "answer": 0,
+      "numbers": [],
+      "safe": -1,
+      "fall": 0,
+      "completed": 4,
+      "checkpoint": 3,
+      "cleared": true
+    },
+    "health": [
+      126,
+      119
+    ],
+    "spawns": 108,
+    "visited": [
+      0,
+      1,
+      2,
+      3
+    ]
+  }
+]

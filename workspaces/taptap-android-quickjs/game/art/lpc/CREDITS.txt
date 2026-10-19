@@ -1,0 +1,31 @@
+LPC modular character artwork
+Repository: https://github.com/LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator
+Pinned commit: 58ce1aa479e4df32845a73a5d0afc221c3a893c2
+
+Authors:
+Benjamin K. Smith (BenCreating)
+Bluecarrot16
+DarkwallLKE
+Durrani
+Eliza Wyatt (ElizaWy)
+ElizaWy
+Evert
+Inboxninja
+JaidynReiman
+Johannes Sjölund (wulax)
+Matthew Krohn (makrohn)
+Michael Whitlock (bigbeargames)
+MuffinElZangano
+Napsio (Vitruvian Studio)
+Pierre Vigier (pvigier)
+Sander Frenken (castelonia)
+Stephen Challener (Redshrike)
+TheraHedwig
+Tuomo Untinen (reemax)
+bluecarrot16
+
+Per-file attribution, original links and license alternatives: CREDITS.csv.
+Selected license: OGA-BY 3.0 when listed; otherwise CC-BY-SA 3.0. Images are unmodified upstream PNGs; no image merging or recoloring. Source PNGs remain accessible in this folder and source.zip.
+OGA-BY: https://static.opengameart.org/OGA-BY-3.0.txt
+CC-BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/
+Godot importer plugin has its own MIT license under addons/LPCAnimatedSprite/LICENSE.

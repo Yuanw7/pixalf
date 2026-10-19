@@ -1,0 +1,25 @@
+{
+  "version": "0.3.1",
+  "environment": "Node VM with mocked rendering; fixture endurance health for long-run density, real game functions for potion effects",
+  "checks": [
+    "both maps: six distinct potion regions, one each, minimum 400px separation, all entrances and pickups reachable",
+    "enemy roster excludes all hero assets and tint-only variants",
+    "leader selection, skill/dash cooldown, pause/blur/overview and return",
+    "power potion raises actual attack by 60%, pixel particles, no duplicate pickup",
+    "same buff from another station refreshes duration without stacking",
+    "speed potion changes actual movement +45%",
+    "health +55, full teammates do not overflow",
+    "pause freezes buffs, expiry restores base stats, potion station respawns",
+    "restart and switching maps clear buffs, effects, pickup history",
+    "endurance fixture: dense independent-enemy invasion from outside world; multiple item points have clustered guards",
+    "loss, bad storage and denied save recover; old v1 retained, map recorded",
+    "click route and companions cross forest bridge; walking/dash cannot cross river"
+  ],
+  "totalSpawned": 467,
+  "peakEnemies": 136,
+  "guardedStations": 5,
+  "types": [
+    "slime",
+    "blood"
+  ]
+}

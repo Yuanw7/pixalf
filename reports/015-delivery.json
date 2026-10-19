@@ -1,0 +1,11 @@
+{
+  "version": "0.9.0",
+  "iteration": 15,
+  "snapshot": "builds/0.9.0-20261010T023619610588Z",
+  "tests": 10,
+  "normalPlayLeaders": 3,
+  "canvasReview": true,
+  "realKeyboardEscape": true,
+  "runtimeMatchesSource": true,
+  "manifestVerified": true
+}

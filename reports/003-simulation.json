@@ -1,0 +1,90 @@
+{
+  "version": "0.2.0",
+  "environment": "Node VM / mocked DOM, Image and Canvas; image decoding and visual checks require browser",
+  "checks": [
+    "selected leader persists at departure",
+    "expanded map, all gates and landmarks reachable",
+    "world movement and camera",
+    "skill and dash repeat blocked by cooldown",
+    "pause freezes spawn and combat",
+    "blur pauses",
+    "map overview pauses and returns to combat",
+    "spawn outside world, peaceful opening, early slime only",
+    "four supplied enemy types, gradual pacing, dawn victory",
+    "no wave or enemy count UI",
+    "v2 duration record leaves v1 intact",
+    "return to selection and clean restart",
+    "unknown record version ignored",
+    "all down loss, corrupted record and denied write recover",
+    "real input simulation crosses bridge; river blocks walking and dash; companions follow"
+  ],
+  "spawns": 35,
+  "map": {
+    "bridges": [
+      {
+        "x": 1432,
+        "y": 330,
+        "w": 224,
+        "h": 112
+      },
+      {
+        "x": 1432,
+        "y": 986,
+        "w": 224,
+        "h": 112
+      }
+    ],
+    "gates": [
+      {
+        "x": 400,
+        "y": -70,
+        "tx": 400,
+        "ty": 100,
+        "side": "north",
+        "reachable": true
+      },
+      {
+        "x": 2310,
+        "y": 700,
+        "tx": 2140,
+        "ty": 700,
+        "side": "east",
+        "reachable": true
+      },
+      {
+        "x": 900,
+        "y": 1510,
+        "tx": 900,
+        "ty": 1340,
+        "side": "south",
+        "reachable": true
+      },
+      {
+        "x": -70,
+        "y": 600,
+        "tx": 100,
+        "ty": 600,
+        "side": "west",
+        "reachable": true
+      }
+    ],
+    "obstacles": 242,
+    "landmarks": [
+      {
+        "x": 950,
+        "y": 350,
+        "reachable": true
+      },
+      {
+        "x": 1940,
+        "y": 700,
+        "reachable": true
+      },
+      {
+        "x": 420,
+        "y": 1080,
+        "reachable": true
+      }
+    ]
+  }
+}

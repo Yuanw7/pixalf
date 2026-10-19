@@ -1,0 +1,143 @@
+[
+  {
+    "leader": 0,
+    "scenario": "normal stats; attack/skill, click navigation and status-driven hazard reactions; no fixture teleports or health changes; checkpoint retry allowed (reported per leader)",
+    "mode": "won",
+    "time": 56.81780299999893,
+    "trial": {
+      "stage": 4,
+      "phase": "cleared",
+      "round": 0,
+      "required": 2,
+      "timer": 0,
+      "ready": true,
+      "open": true,
+      "exit": {
+        "activated": true,
+        "progress": 1
+      },
+      "question": "",
+      "answer": 0,
+      "numbers": [],
+      "safe": -1,
+      "fall": 0,
+      "completed": 5,
+      "checkpoint": 4,
+      "cleared": true
+    },
+    "health": [
+      170,
+      135
+    ],
+    "spawns": 150,
+    "visited": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "retries": [],
+    "buttons": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "leader": 1,
+    "scenario": "normal stats; attack/skill, click navigation and status-driven hazard reactions; no fixture teleports or health changes; checkpoint retry allowed (reported per leader)",
+    "mode": "won",
+    "time": 58.80117599999872,
+    "trial": {
+      "stage": 4,
+      "phase": "cleared",
+      "round": 0,
+      "required": 2,
+      "timer": 0,
+      "ready": true,
+      "open": true,
+      "exit": {
+        "activated": true,
+        "progress": 1
+      },
+      "question": "",
+      "answer": 0,
+      "numbers": [],
+      "safe": -1,
+      "fall": 0,
+      "completed": 5,
+      "checkpoint": 4,
+      "cleared": true
+    },
+    "health": [
+      170,
+      215
+    ],
+    "spawns": 148,
+    "visited": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "retries": [],
+    "buttons": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "leader": 2,
+    "scenario": "normal stats; attack/skill, click navigation and status-driven hazard reactions; no fixture teleports or health changes; checkpoint retry allowed (reported per leader)",
+    "mode": "won",
+    "time": 50.68434699999959,
+    "trial": {
+      "stage": 4,
+      "phase": "cleared",
+      "round": 0,
+      "required": 2,
+      "timer": 0,
+      "ready": true,
+      "open": true,
+      "exit": {
+        "activated": true,
+        "progress": 1
+      },
+      "question": "",
+      "answer": 0,
+      "numbers": [],
+      "safe": -1,
+      "fall": 0,
+      "completed": 5,
+      "checkpoint": 4,
+      "cleared": true
+    },
+    "health": [
+      171,
+      135
+    ],
+    "spawns": 124,
+    "visited": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "retries": [],
+    "buttons": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "version": "0.8.0",
+  "newMechanisms": [
+    "flame",
+    "fan",
+    "bomb",
+    "wallspike",
+    "spikerow",
+    "rockfall"
+  ],
+  "checks": [
+    "43 assets; 6 new mechanism kinds placed; stage 1 four pendulums, stage 3 three heads; every periodic hazard keeps a rest window; no hazard covers a checkpoint or an answer tile",
+    "flame: idle -> warn -> fire, burns and knocks back a grounded hero, jump clears it",
+    "fan: a gust pushes a grounded hero downstream and deals no damage",
+    "bomb: proximity lights a 1.1 s fuse, the blast damages inside its radius, leaving the radius avoids it",
+    "wallspike: rest -> warning -> active in a fixed direction; damages and pushes on the ground, cleared in the air",
+    "spikerow: cells rise in sequence and damage whoever stands on the risen cell",
+    "rockfall: idle -> crack warning -> fall -> debris, and stepping away after the warning avoids it",
+    "pause freezes and retry resets every new mechanism state machine",
+    "stage gating still mutes every mechanism for isolated fixtures"
+  ]
+}

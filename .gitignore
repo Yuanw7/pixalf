@@ -1,0 +1,28 @@
+# Local editor and operating-system files
+.DS_Store
+.idea/
+.vscode/
+node_modules/
+
+# Reproducible builds and bundled engines (keep source and build scripts)
+/builds/
+**/build/
+**/.godot/
+**/runtime/Godot
+*.dylib
+*.so
+*.o
+*.a
+*.tmp
+
+# Repeated source snapshots in acceptance reports
+**/reports/**/*.zip
+
+# Local secrets and signing material
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.keystore
+*.jks

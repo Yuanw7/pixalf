@@ -1,0 +1,12 @@
+{
+  "snapshot": "builds/0.8.0",
+  "version": "0.8.0",
+  "verifiedFiles": 6,
+  "mismatches": [],
+  "bundledFiles": {
+    "index.html": "e70975c73b7803c5becf552c0b5861a695621b6f8ffdf57393d3fa7c51ed9b5c",
+    "index.js": "2f23b9fef6aebda343b59a0a8166addaba664841b10ffc64bebd28cf7416b5f6",
+    "style.css": "063dde6fd61a4a58ebac9c77968138f20c82a79cc5f1ab7cfc4a6e56a21ef560",
+    "assets.js": "b99d4dd33c7db66a1e519b05bc8d80088a6e36753c4cc103da130ceaede04346"
+  }
+}

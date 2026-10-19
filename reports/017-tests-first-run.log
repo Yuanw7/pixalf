@@ -1,0 +1,35 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+ROOM 1 -> 2 position=(48.0, 336.0)
+ROOM 1 -> 2 position=(48.0, 336.0)
+ROOM 1 -> 2 position=(48.0, 240.0)
+ROOM 1 -> 2 position=(48.0, 240.0)
+ROOM 1 -> 2 position=(48.0, 144.0)
+ROOM 1 -> 2 position=(48.0, 144.0)
+ROOM 1 -> 2 position=(400.0, 48.0)
+ROOM 1 -> 2 position=(400.0, 48.0)
+ROOM 1 -> 2 position=(304.0, 48.0)
+ROOM 1 -> 2 position=(304.0, 48.0)
+ROOM 1 -> 2 position=(208.0, 48.0)
+ROOM 1 -> 2 position=(208.0, 48.0)
+ROOM 1 -> 2 position=(464.0, 336.0)
+ROOM 1 -> 2 position=(464.0, 336.0)
+ROOM 1 -> 2 position=(464.0, 240.0)
+ROOM 1 -> 2 position=(464.0, 240.0)
+ROOM 1 -> 2 position=(464.0, 144.0)
+ROOM 1 -> 2 position=(464.0, 144.0)
+ROOM 1 -> 2 position=(400.0, 336.0)
+ROOM 1 -> 2 position=(400.0, 336.0)
+ROOM 1 -> 2 position=(304.0, 336.0)
+ROOM 1 -> 2 position=(304.0, 336.0)
+ROOM 1 -> 2 position=(208.0, 336.0)
+ROOM 1 -> 2 position=(208.0, 336.0)
+ROOM 1 -> 2 position=(48.0, 208.0)
+ROOM 2 -> 3 position=(400.0, 48.0)
+FAIL room3 active trap navigation
+FAIL left door enters room4
+FAIL room4 bomb escape movement
+FAIL approach final door
+FAIL four-room normal movement clear
+PLAYTHROUGH seconds=99.75 visited=["r1", "r2", "r3"] alive=true won=false
+WORKSHOP 017 TESTS 202 checks / ["room3 active trap navigation", "left door enters room4", "room4 bomb escape movement", "approach final door", "four-room normal movement clear"]

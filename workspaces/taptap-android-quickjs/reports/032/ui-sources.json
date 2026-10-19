@@ -1,0 +1,22 @@
+[
+  {
+    "file": "UI_Flat_Frame01a.png",
+    "source": "assets/packs/CompleteUI/Complete_UI_Essential_Pack_Free/01_Flat_Theme/Sprites/UI_Flat_Frame01a.png",
+    "sha256": "5953a5b910ef62bd2d2aea6f76fc2b21207cd8a6be1684fab23b8cb3a7c9affd"
+  },
+  {
+    "file": "UI_Flat_Bar02a.png",
+    "source": "assets/packs/CompleteUI/Complete_UI_Essential_Pack_Free/01_Flat_Theme/Sprites/UI_Flat_Bar02a.png",
+    "sha256": "d658c1e79e701fb6996d1450562c811e9806bbb2e27de585be2ae796106129de"
+  },
+  {
+    "file": "UI_Flat_BarFill01a.png",
+    "source": "assets/packs/CompleteUI/Complete_UI_Essential_Pack_Free/01_Flat_Theme/Sprites/UI_Flat_BarFill01a.png",
+    "sha256": "d3eafbe19bec4b1ea9fc0def40e5b1fab73b4b028852f1652a793f32380051b3"
+  },
+  {
+    "file": "UI_Flat_BarFill01d.png",
+    "source": "assets/packs/CompleteUI/Complete_UI_Essential_Pack_Free/01_Flat_Theme/Sprites/UI_Flat_BarFill01d.png",
+    "sha256": "7b6fddbc221b9015df1db40d7fc6e3f6c1b0b6aa4dba73b4a7b46c1d3bce21f2"
+  }
+]

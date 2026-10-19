@@ -1,0 +1,7 @@
+build/
+game/.godot/
+game/native/*.dylib
+game/native/*.so
+*.keystore
+*.jks
+runtime/Godot

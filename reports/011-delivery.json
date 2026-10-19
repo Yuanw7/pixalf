@@ -1,0 +1,38 @@
+{
+  "version": "0.7.0",
+  "checkedAt": "2026-10-07T07:32:19.583789+00:00",
+  "manifestHashes": {
+    "source.zip": true,
+    "START_HERE.txt": true,
+    "game/index.html": true,
+    "game/index.js": true,
+    "game/style.css": true,
+    "game/assets.js": true
+  },
+  "sourceArchiveIntegrity": true,
+  "runtimeSourceEquality": {
+    "index.js": true,
+    "index.html": true,
+    "style.css": true,
+    "assets.js": true
+  },
+  "tests": "reports/011-tests.log",
+  "normalFourStageCampaigns": "reports/011-normal-play.json",
+  "sourceAssetAudit": "reports/011-audit/inventory.json",
+  "browser": {
+    "url": "http://127.0.0.1:5173/builds/0.7.0/game/index.html",
+    "packageMenuVerified": true,
+    "warningsAndErrors": [],
+    "sceneEvidence": [
+      "reports/011-corridor-live.png",
+      "reports/011-lava-live.png"
+    ],
+    "scope": "Isolated visual QA scenes and production menu. Full four-stage completion is normal-stat VM input simulation, not a browser completion claim."
+  },
+  "previousBuildPreserved": true,
+  "userExperienceApproval": "pending",
+  "limitations": [
+    "Other browsers and direct file launch not verified",
+    "Lava demon resides only in the fourth dungeon stage; forest has four new roaming types plus slime"
+  ]
+}

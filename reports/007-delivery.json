@@ -1,0 +1,29 @@
+{
+  "version": "0.4.0",
+  "checkedAt": "2026-10-07T05:24:21.119896+00:00",
+  "files": {
+    "source.zip": true,
+    "START_HERE.txt": true,
+    "game/index.html": true,
+    "game/index.js": true,
+    "game/style.css": true,
+    "game/assets.js": true
+  },
+  "archiveIntegrity": true,
+  "runtimeMatchesSource": true,
+  "browser": "Chrome HTTP actual package selection entry",
+  "evidence": "007-delivery-menu.png",
+  "functionalEvidence": [
+    "007-equation.png",
+    "007-lava-collapse.png",
+    "007-pendulum-corridor.png",
+    "007-linear-map.png"
+  ],
+  "normalStatsPlaythrough": "all three selectable leaders completed all three stages in input-driven simulation",
+  "previousBuildsPreserved": true,
+  "pending": [
+    "user balance acceptance",
+    "Safari/Edge",
+    "file protocol actual launch"
+  ]
+}

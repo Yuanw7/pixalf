@@ -1,0 +1,40 @@
+{
+  "version": "0.6.0",
+  "verifiedAt": "2026-10-07T06:45:04.307915+00:00",
+  "manifestHashes": {
+    "source.zip": true,
+    "START_HERE.txt": true,
+    "game/index.html": true,
+    "game/index.js": true,
+    "game/style.css": true,
+    "game/assets.js": true
+  },
+  "sourceZipIntegrity": "passed",
+  "sourceRuntimeMatches": {
+    "index.html": true,
+    "index.js": true,
+    "style.css": true,
+    "assets.js": true
+  },
+  "browser": {
+    "engine": "Chrome",
+    "url": "http://127.0.0.1:5173/builds/0.6.0/game/index.html",
+    "menuVerified": true,
+    "consoleWarningsAndErrors": [],
+    "screenshot": "reports/009-delivery-menu.png"
+  },
+  "tests": "reports/009-tests.log",
+  "normalStatsFourStageAllThreeLeaders": "reports/009-normal-play.json",
+  "sceneEvidence": [
+    "reports/009-final-scene.png",
+    "reports/009-three-gaps-overview.png",
+    "reports/009-fire-hit-fall.png"
+  ],
+  "browserScope": "Isolated stage-four rendering, live hit/fall and retry; actual packaged menu. Full four-stage playthrough uses normal-stat VM input simulation.",
+  "previousBuildsPreserved": true,
+  "pending": [
+    "User gameplay/balance acceptance",
+    "Other browsers",
+    "Direct file launch verification"
+  ]
+}

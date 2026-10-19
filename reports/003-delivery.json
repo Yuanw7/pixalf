@@ -1,0 +1,35 @@
+{
+  "version": "0.2.0",
+  "testedHttpSnapshot": "builds/0.2.0-20261007T024318520593Z",
+  "httpEntry": "http://127.0.0.1:5173/builds/0.2.0-20261007T024318520593Z/game/index.html",
+  "httpChecks": [
+    "selected orc leader",
+    "start forest",
+    "M overview pauses",
+    "M returns",
+    "K skill cooldown visible",
+    "real sprites and terrain render",
+    "no wave or enemy counter visible"
+  ],
+  "browser": "Chrome",
+  "consoleErrorsOrWarnings": [],
+  "screenshot": "reports/003-delivery.png",
+  "runtimeSHA256": {
+    "index.html": "38165b0a1886955ad41f7480685d8ba0859fb064302e5a8cacb13556a0ee87a2",
+    "index.js": "690af704b9d9f38153f337055adad0672e78d458fc522760c8d6826bd840f153",
+    "style.css": "9b7bad35c8a4250501593650dc8c9c409e1e4c507a905602cf53ee4b07ccfbd0",
+    "assets.js": "891589a810f86f32b5dbab706db45941c032f80a388ac0065fa4e2f849c62413"
+  },
+  "modelReport": "reports/003-simulation.json",
+  "allExistingManifestChecks": "passed",
+  "fileEntryCheck": {
+    "status": "blocked / untested",
+    "reason": "Browser URL security policy allows HTTP/HTTPS only; file navigation rejected; no workaround attempted"
+  },
+  "userApproval": "pending feedback",
+  "publicRelease": false,
+  "checkedAt": "2026-10-07T02:43:58.004397+00:00",
+  "finalSnapshot": "builds/0.2.0-20261007T024358173698Z",
+  "finalManifestCheck": "passed",
+  "finalRuntimeMatchesTestedPayload": true
+}

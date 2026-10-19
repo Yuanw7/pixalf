@@ -1,0 +1,58 @@
+[
+  {
+    "backlog_seconds_max": 0.0166106666666667,
+    "canvas_ms_p95": 0.973,
+    "enemies": 83,
+    "fps": 49.0749374294548,
+    "frame_ms_max": 45.577,
+    "frame_ms_p95": 30.865,
+    "mode": "playing",
+    "optimized": false,
+    "simulated_seconds": 5.98333333333809,
+    "simulation_batch_ms_p95": 22.759,
+    "visible_stress": false,
+    "wall_seconds": 6.010188
+  },
+  {
+    "backlog_seconds_max": 0.0166326666666667,
+    "canvas_ms_p95": 0.898,
+    "enemies": 83,
+    "fps": 110.582815350651,
+    "frame_ms_max": 21.307,
+    "frame_ms_p95": 15.719,
+    "mode": "playing",
+    "optimized": true,
+    "simulated_seconds": 6.00000000000475,
+    "simulation_batch_ms_p95": 5.113,
+    "visible_stress": false,
+    "wall_seconds": 6.008534
+  },
+  {
+    "backlog_seconds_max": 0.0165996666666667,
+    "canvas_ms_p95": 3.579,
+    "enemies": 84,
+    "fps": 37.6906053587312,
+    "frame_ms_max": 35.897,
+    "frame_ms_p95": 31.585,
+    "mode": "playing",
+    "optimized": false,
+    "simulated_seconds": 6.00000000000475,
+    "simulation_batch_ms_p95": 16.479,
+    "visible_stress": true,
+    "wall_seconds": 6.027122
+  },
+  {
+    "backlog_seconds_max": 0.0165626666666667,
+    "canvas_ms_p95": 2.81,
+    "enemies": 84,
+    "fps": 63.0738271162367,
+    "frame_ms_max": 24.546,
+    "frame_ms_p95": 18.643,
+    "mode": "playing",
+    "optimized": true,
+    "simulated_seconds": 6.00000000000475,
+    "simulation_batch_ms_p95": 5.134,
+    "visible_stress": true,
+    "wall_seconds": 6.008943
+  }
+]

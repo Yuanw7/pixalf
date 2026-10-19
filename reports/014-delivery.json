@@ -1,0 +1,31 @@
+{
+  "version": "0.9.0",
+  "iteration": 14,
+  "snapshot": "builds/0.9.0-20261009T030326306444Z",
+  "entry": "builds/0.9.0-20261009T030326306444Z/game/index.html",
+  "status": "verified",
+  "modelTests": {
+    "command": "npm test",
+    "exit": 0,
+    "suites": 9,
+    "leadersCleared": 3,
+    "buttonsPerLeader": 5
+  },
+  "browser": {
+    "tool": "ego-browser",
+    "transport": "HTTP",
+    "assets": 43,
+    "bellyButtonF": true,
+    "bellyKeyboardEntryStage": 3,
+    "stoneDoorF": true,
+    "deliveryStartMovePauseMenu": true,
+    "productionFixture": "undefined",
+    "fileProtocolTested": false
+  },
+  "runtimeSHA256": {
+    "index.html": "a6883ac2b1490f1151b0c212d7843f81b482386a16daa3b06942147091d61eba",
+    "style.css": "063dde6fd61a4a58ebac9c77968138f20c82a79cc5f1ab7cfc4a6e56a21ef560",
+    "index.js": "9594f4afda3f2cd6142d59e25840848b3ad7e3adb3a323f9d72eaaa3d8e98c0b",
+    "assets.js": "b99d4dd33c7db66a1e519b05bc8d80088a6e36753c4cc103da130ceaede04346"
+  }
+}

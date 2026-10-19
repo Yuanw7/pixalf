@@ -1,0 +1,5 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+OpenGL API 4.1 Metal - 90.5 - Compatibility - Using Device: Apple - Apple M3 Pro
+
+{"backlog_seconds_max":0.0166533333333334,"canvas_ms_p95":1.123,"enemies":83,"fps":83.5441497015682,"frame_ms_max":98.613,"frame_ms_p95":19.612,"mode":"playing","optimized":true,"simulated_seconds":6.00000000000475,"simulation_batch_ms_p95":5.1,"visible_stress":false,"wall_seconds":6.010101}
+{"backlog_seconds_max":0.0163903333333335,"canvas_ms_p95":3.394,"enemies":84,"fps":59.249151659874,"frame_ms_max":23.078,"frame_ms_p95":19.223,"mode":"playing","optimized":true,"simulated_seconds":6.00000000000475,"simulation_batch_ms_p95":4.757,"visible_stress":true,"wall_seconds":6.010664}

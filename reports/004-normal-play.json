@@ -1,0 +1,15 @@
+{
+  "scenario": "Normal hero stats, keyboard attack/skill and click navigation to available potions; no endurance fixture",
+  "result": {
+    "mode": "won",
+    "time": 150,
+    "health": [
+      163,
+      69,
+      135
+    ],
+    "pickups": 30,
+    "kills": 565,
+    "spawns": 701
+  }
+}

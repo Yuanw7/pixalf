@@ -1,0 +1,5 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+WOOD_RUN frames=39 alive=false x=320.0 elapsed=1.95 notice=停在喷火带上了，请在两道火带之间停留 · R 重试 / Esc 返回编辑
+FAIL 025 normal movement can solve wood/fire room
+025 CHALLENGE + MULTISELECT 31 checks / ["normal movement can solve wood/fire room"]

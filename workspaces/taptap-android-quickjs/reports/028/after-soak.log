@@ -1,0 +1,3 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+{"canvas_cpu_p95":0,"commands_avg":596.522222222222,"counters":{"calls":{"buildFlow":100.0,"draw":3601.0,"drawTrials":3601.0,"mechanisms":3600.0,"navigate":200041.0,"trial":3600.0,"update":3600.0},"enemies":75.0,"fx":0.0,"particles":4.0,"remains":17.0,"spawnHistory":172.0,"times":{"buildFlow":88.0,"draw":2186.0,"drawTrials":754.0,"mechanisms":45.0,"navigate":6363.0,"trial":368.0,"update":7572.0}},"frame_wall_p95":0,"gradient_cache":0,"json_bytes":85188,"scenario":{"count":84,"name":"bridge_end_60s","spawning":true,"x":400},"step_ms_median":5.309,"step_ms_p95":7.169}

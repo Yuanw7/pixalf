@@ -1,0 +1,154 @@
+THORNBOUND 0.8.0 test log
+2026-10-08T03:08:18Z
+node v24.21.0
+--- npm test ---
+
+> thornbound@0.8.0 test
+> node --check index.js && node tests/combat.mjs && node tests/trials.mjs && node tests/jump-knockback.mjs && node tests/fire-beam.mjs && node tests/companion-lava.mjs && node tests/monsters-traps.mjs && node tests/level-complexity.mjs && node tests/playthrough.mjs
+
+Forest regression: two characters, six separated reachable potion regions, effects/expiry/pause/respawn, river collision, damaged/denied storage recovery passed.
+{
+  "version": "0.8.0",
+  "checks": [
+    "exactly one selected player and one living companion, no in-run character switching",
+    "first locked gate blocks walking and dash",
+    "unique answers; full three-second deadline; pause freezes; wrong tile falls with animation; retry resets current stage",
+    "two answers open first gate; corridor checkpoint retry; pendulum damages; dungeon never auto-wins at 150 seconds",
+    "final three answers required, exit cannot bypass puzzle, third exit advances to fourth checkpoint; final exit writes four-stage campaign record",
+    "stepping off surviving tile during collapse also falls"
+  ]
+}
+{"slimePushPixels":41.166793319400085,"checks":["monster push, invulnerability prevents duplicate push, collision prevents wall/river tunnelling","jump no double jump, cooldown, pause freeze, safe gap landing","walking/ground dash gap fails, landing off beam fails","fourth checkpoint retries with jump/push cleared","rotating hammer hits ground; jumping clears hammer and slime","trap trajectory rendering removed"]}
+Extended beam: 1696 px, three gaps each jumpable and lethal on foot; fire flies, fires travelling bolts, damages/pushes, pause/retry clears/freeze; airborne dodge; hammer knockback can cause lava fall; fire spawns inside lava.
+Companion: all three roles deal 50% as AI and full damage as leader; normal/skill damage, 6px gentle no-damage contact, cooldown/pause/wall collision. Fire: four lava homes, small continuous patrol, ranged fire, kill/respawn reset and pause.
+{"actualPushPixels":{"slime":41.166793319400085,"scout":45.50013998460008,"wolf":52.000159982399964,"brute":70.41688330949978,"treant":60.66685331279996}}
+Five distinct source sheets replace legacy enemies; slime retained; timed unlocks and growing pressure; lava demon late unlock; spike timing/airborne dodge, saw hits, moving arrows/pause, collapsing plank/fall/retry/restore verified.
+{
+  "version": "0.8.0",
+  "newMechanisms": [
+    "flame",
+    "fan",
+    "bomb",
+    "wallspike",
+    "spikerow",
+    "rockfall"
+  ],
+  "checks": [
+    "43 assets; 6 new mechanism kinds placed; stage 1 four pendulums, stage 3 three heads; every periodic hazard keeps a rest window; no hazard covers a checkpoint or an answer tile",
+    "flame: idle -> warn -> fire, burns and knocks back a grounded hero, jump clears it",
+    "fan: a gust pushes a grounded hero downstream and deals no damage",
+    "bomb: proximity lights a 1.1 s fuse, the blast damages inside its radius, leaving the radius avoids it",
+    "wallspike: rest -> warning -> active in a fixed direction; damages and pushes on the ground, cleared in the air",
+    "spikerow: cells rise in sequence and damage whoever stands on the risen cell",
+    "rockfall: idle -> crack warning -> fall -> debris, and stepping away after the warning avoids it",
+    "pause freezes and retry resets every new mechanism state machine",
+    "stage gating still mutes every mechanism for isolated fixtures"
+  ]
+}
+[
+  {
+    "leader": 0,
+    "scenario": "normal stats; attack/skill, click navigation and status-driven hazard reactions; no fixture teleports or health changes",
+    "mode": "won",
+    "time": 52.98439299999934,
+    "trial": {
+      "stage": 3,
+      "phase": "idle",
+      "round": 0,
+      "required": 2,
+      "timer": 0,
+      "open": true,
+      "question": "",
+      "answer": 0,
+      "numbers": [],
+      "safe": -1,
+      "fall": 0,
+      "completed": 4,
+      "checkpoint": 3,
+      "cleared": true
+    },
+    "health": [
+      161,
+      101
+    ],
+    "spawns": 123,
+    "visited": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "leader": 1,
+    "scenario": "normal stats; attack/skill, click navigation and status-driven hazard reactions; no fixture teleports or health changes",
+    "mode": "won",
+    "time": 53.517736999999286,
+    "trial": {
+      "stage": 3,
+      "phase": "idle",
+      "round": 0,
+      "required": 2,
+      "timer": 0,
+      "open": true,
+      "question": "",
+      "answer": 0,
+      "numbers": [],
+      "safe": -1,
+      "fall": 0,
+      "completed": 4,
+      "checkpoint": 3,
+      "cleared": true
+    },
+    "health": [
+      145,
+      199
+    ],
+    "spawns": 129,
+    "visited": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "leader": 2,
+    "scenario": "normal stats; attack/skill, click navigation and status-driven hazard reactions; no fixture teleports or health changes",
+    "mode": "won",
+    "time": 45.9509190000001,
+    "trial": {
+      "stage": 3,
+      "phase": "idle",
+      "round": 0,
+      "required": 2,
+      "timer": 0,
+      "open": true,
+      "question": "",
+      "answer": 0,
+      "numbers": [],
+      "safe": -1,
+      "fall": 0,
+      "completed": 4,
+      "checkpoint": 3,
+      "cleared": true
+    },
+    "health": [
+      126,
+      119
+    ],
+    "spawns": 108,
+    "visited": [
+      0,
+      1,
+      2,
+      3
+    ]
+  }
+]
+npm notice
+npm notice New major version of npm available! 11.16.0 -> 12.2.0
+npm notice Changelog: https://github.com/npm/cli/releases/tag/v12.2.0
+npm notice To update run: npm install -g npm@12.2.0
+npm notice
+npm test exit=0

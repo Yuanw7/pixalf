@@ -1,0 +1,2397 @@
+[
+  {
+    "file": "assets/packs/TopdownMonstersPart1Free/Free/00.png",
+    "bytes": 201885,
+    "sha256": "38167dcea25c023bd766e60cffa0e7decbb98eeeddd900a80ca68dce684b2a42",
+    "size": [
+      640,
+      1440
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TopdownMonstersPart1Free/Free/01.png",
+    "bytes": 242478,
+    "sha256": "3f5899850da9e4914d5df80907b6ffe2dac04682b81864834bafe8afa9f39ad0",
+    "size": [
+      640,
+      1440
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TopdownMonstersPart1Free/Free/02.png",
+    "bytes": 189098,
+    "sha256": "7224a9cb6bf468bd405b1f47203099dd9555c29b44c023d6cd78c236b72d6404",
+    "size": [
+      640,
+      1440
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TopdownMonstersPart1Free/Free/03.png",
+    "bytes": 116729,
+    "sha256": "79373763bc62a82b811eec3be05ce9bfa868210aa6da892865cab02b1b79f600",
+    "size": [
+      640,
+      1440
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TopdownMonstersPart1Free/Free/04.png",
+    "bytes": 191411,
+    "sha256": "f5553455466261e5f4181d4d61e0376d498ab6e72840002ba2b0b947264a3f85",
+    "size": [
+      640,
+      1440
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TopdownMonstersPart1Free/Free/05.png",
+    "bytes": 117170,
+    "sha256": "e867e80cd134161508aefbed19fe9640ce540939efabd32098ae8b2283c5d09e",
+    "size": [
+      640,
+      1440
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TopdownMonstersPart1Free/Free/06.png",
+    "bytes": 122544,
+    "sha256": "d90f5ed96cc183f653ea6dbe6cbde898996a4130fd5278264f5a9d3a0b4f8cbf",
+    "size": [
+      640,
+      1440
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TopdownMonstersPart1Free/Free/07.png",
+    "bytes": 150514,
+    "sha256": "922c5a1b4f2df90b3093c66ae7303c0db544189057c42fa33e133ca4f138b2ae",
+    "size": [
+      640,
+      1440
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TopdownMonstersPart1Free/Free/08.png",
+    "bytes": 123947,
+    "sha256": "c3de6dfd3fa03c76a97e793efa9979366d62236c6cfc3b4c29ad342761938c11",
+    "size": [
+      640,
+      1440
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TopdownMonstersPart1Free/Free/09.png",
+    "bytes": 154882,
+    "sha256": "efb921c34a2932da2865799eb735334e2f108e9bea25d6c61330f6b816407a0d",
+    "size": [
+      640,
+      1440
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TopdownMonstersPart1Free/Free/10.png",
+    "bytes": 157360,
+    "sha256": "9dc543fd7078c10899558342401b089756be874b97e0ce05ef8baa3a7dfbbabe",
+    "size": [
+      640,
+      1440
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TopdownMonstersPart1Free/Free/Animation name.png",
+    "bytes": 2245,
+    "sha256": "d964785741f8308696174e1c0eef7f4d30dc14e06a8eeebdf2c622128ed4c2c4",
+    "size": [
+      80,
+      1440
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TopdownMonstersPart1Free/Free/Preview Free Part 1.gif",
+    "bytes": 1088209,
+    "sha256": "320d2e777995f5647c4926b5b8ebe7876de9a73000bc5b385fa4d365b72615e5",
+    "size": [
+      400,
+      160
+    ],
+    "frames": 144
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/00 All.png",
+    "bytes": 172671,
+    "sha256": "da2fc0544629a20c0d523b146209b54e4222be81838125a7336626a054344760",
+    "size": [
+      1024,
+      544
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/00 All_Rocket.png",
+    "bytes": 30191,
+    "sha256": "3402642928099e09093bed9dbc9aa8cd015ed68f7dfc10b57970bbe2ec761994",
+    "size": [
+      384,
+      240
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/00 Gun.png",
+    "bytes": 19938,
+    "sha256": "c1fb8ea82b90500dccfe4d6278bcf40dc8a3f227246b6f6f89390ec7e24ea02f",
+    "size": [
+      368,
+      272
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/00.png",
+    "bytes": 2663,
+    "sha256": "fdeab8aa00f234c0724a3ec86d064caee11ba36187806e3e95a3b093a5e281bc",
+    "size": [
+      96,
+      96
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/01.png",
+    "bytes": 339,
+    "sha256": "47187c6efb0bbf330888ecc56ee275e04087fe793528e83bb85ddce8253757b2",
+    "size": [
+      16,
+      32
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/02.png",
+    "bytes": 776,
+    "sha256": "9f742340bc0fe309d7ebc83c9fa16126b77ec5cb436d71ba1241747c3744c7aa",
+    "size": [
+      32,
+      32
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/03.png",
+    "bytes": 836,
+    "sha256": "7ed01771233dd0659a910b4066008f1a365850d61e5225b0d338c2490aa20bdb",
+    "size": [
+      32,
+      32
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/04.png",
+    "bytes": 590,
+    "sha256": "f0426ed5ec5cd5ea0d49ef0c3e4468b2fb6b012012cfd7967f8081d6db19604d",
+    "size": [
+      32,
+      32
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/05.png",
+    "bytes": 2091,
+    "sha256": "b3d2b159c17c1a798e9897154915dcb907470510d5be0ba5d146287681a16ced",
+    "size": [
+      48,
+      64
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/06.png",
+    "bytes": 218,
+    "sha256": "b134fe465961464ce0606cf990534c165b4375021d0f79dc8687074c9baa3be4",
+    "size": [
+      16,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/07.png",
+    "bytes": 234,
+    "sha256": "194b4688e8391c5664c995298705310c60cb5118a3a39a639bbad12077308116",
+    "size": [
+      16,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/08.png",
+    "bytes": 285,
+    "sha256": "d5190b4388849aac8857f4572f48cfdd4d28c54876423a3600ea7e792f8db18d",
+    "size": [
+      16,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/09.png",
+    "bytes": 425,
+    "sha256": "c58f773ddfa2ef2f63741ddb9a4f0c59e7b6ece52776b7e07cf78b1ea8ee054b",
+    "size": [
+      16,
+      32
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/10.png",
+    "bytes": 1348,
+    "sha256": "62e7746e6defe63eee468a75a80dd4dbede3a6a5af383858c5efdf6034222b32",
+    "size": [
+      64,
+      64
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/11.png",
+    "bytes": 1398,
+    "sha256": "f07aaff8a3a286613d9c75e9844d4cd08b94001f799dff82589afe60e0090a54",
+    "size": [
+      48,
+      64
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/12.png",
+    "bytes": 1297,
+    "sha256": "6338cdba35b4f974711c58732e911a698caef526c7c2d1d2aa688fbd07fa87ae",
+    "size": [
+      48,
+      80
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/13.png",
+    "bytes": 1496,
+    "sha256": "5efaa4379b460abdba0f0cd85f44669a1e83206b6bcffacd3604af435e6efc93",
+    "size": [
+      80,
+      80
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/14.png",
+    "bytes": 709,
+    "sha256": "fd7ab13afe2eb718ca1ca5fd244967a981ffc19d95de239af8f0860ba42f571b",
+    "size": [
+      32,
+      32
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/15.png",
+    "bytes": 1229,
+    "sha256": "7c85f41d9ab074d0c076f674d1fc68b68d209ee13b62841bc0690351ba07a5f0",
+    "size": [
+      48,
+      80
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/16.png",
+    "bytes": 1149,
+    "sha256": "6cf6a4c59a3bc9ba40b9a603d3930b290818d50c7c786c448e5d7bcd805acef2",
+    "size": [
+      48,
+      80
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/17.png",
+    "bytes": 1028,
+    "sha256": "ab264700ffeabb311c8aaa7b1440a1181bf3137f20886154d28c46137884aa79",
+    "size": [
+      48,
+      80
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/18.png",
+    "bytes": 1186,
+    "sha256": "ce8c09674c8c7aea55d33d7d58ca7f253df9a81e428c24a0a776e6485e6942b3",
+    "size": [
+      48,
+      80
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/19.png",
+    "bytes": 1477,
+    "sha256": "f124d440843a6511ede084f63717af9a8a41011fb3e1276f7d768aaecab53168",
+    "size": [
+      80,
+      80
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/20.png",
+    "bytes": 3179,
+    "sha256": "a2c7fa98a1363b17d51b6c3e4e58e30ca35b9af1a427280d4365c27d5c000a06",
+    "size": [
+      144,
+      128
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/21.png",
+    "bytes": 177,
+    "sha256": "435436ccf8c3e84f7be804edbc7515fb8e02fa1944d92a8e55a0689c7764863d",
+    "size": [
+      16,
+      32
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/22.png",
+    "bytes": 248,
+    "sha256": "0c1444c4c071c2b59fc9574ec92ddf0756875c33fca4659bc890b938531d66be",
+    "size": [
+      16,
+      32
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/23.png",
+    "bytes": 295,
+    "sha256": "f29a0b9af2147159da38b77c9a05dfa8a16e16a89fb5586372a8b2fb274c5578",
+    "size": [
+      16,
+      32
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/24.png",
+    "bytes": 420,
+    "sha256": "90896cf34c5a87a5d3e75e48ec60c13fadd4850db84d1ffa26e931c72ec9b812",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/25.png",
+    "bytes": 667,
+    "sha256": "3a717673ea245ce699afa478dc9e17d5961de7e7dc416355ec992ca36203de1a",
+    "size": [
+      64,
+      32
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/26.png",
+    "bytes": 365,
+    "sha256": "ac859f8c2a4250a89786fe25ffb10479f7f001fba5275e233c067f14ebe85f1f",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/27.png",
+    "bytes": 760,
+    "sha256": "b6d682a7bfb2eb50a9ea6b43eb5221e674f3469244b86130412bf350434258de",
+    "size": [
+      48,
+      48
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/28.png",
+    "bytes": 1505,
+    "sha256": "6c57cb38bc415672385b19be85b2ac3a7b217b13d0b85c5130ad8f26eeabc674",
+    "size": [
+      80,
+      80
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/29.png",
+    "bytes": 1313,
+    "sha256": "d212f425d04dcd3555c95da96ac450449a0db09248aaadc65b3d122967f48b2e",
+    "size": [
+      64,
+      64
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/30.png",
+    "bytes": 690,
+    "sha256": "87d09d9603b8e1ea3cc7b6acc42a58099922ec14cd0f5948146d3bbbe2782e8a",
+    "size": [
+      48,
+      32
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/31.png",
+    "bytes": 539,
+    "sha256": "a110916d32304594833015f1fdcef93ca0d249607e467844fd684518e68cb724",
+    "size": [
+      48,
+      32
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/32.png",
+    "bytes": 935,
+    "sha256": "2daf55cfdc71767cc8e7c6f7f5be587671474685dd8cd61f8c8cfcc9c5e05e80",
+    "size": [
+      80,
+      64
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Arrow_Double_Jump.png",
+    "bytes": 613,
+    "sha256": "97bb755f3357cd0c7ea89ff9e09b39bdb0654c9acfe11225eacbcd0d11b54d7f",
+    "size": [
+      64,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Be_Spear.png",
+    "bytes": 188,
+    "sha256": "9135a33f970278bc8f866ae683a786ed7f136926a8a67d2141b9aa71e2ebe4d3",
+    "size": [
+      17,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Be_Xich.png",
+    "bytes": 226,
+    "sha256": "190a20bd31fba469f832760f142597e371b47eb763c555c6396ce566c347b155",
+    "size": [
+      16,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Bomb.png",
+    "bytes": 841,
+    "sha256": "5067c471c059f09c177b0a58f79128ba4dbd026610303ce91acd3ad3723ff68e",
+    "size": [
+      160,
+      32
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Brick1.png",
+    "bytes": 1279,
+    "sha256": "4f6c03557d961d135633a30fb847cb1700dff541986f22acff5ec38dbfcc7b3a",
+    "size": [
+      256,
+      32
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/FallingPlatfrom.png",
+    "bytes": 554,
+    "sha256": "466488a267431f9b30b3306eb1af70034c2bd30ec236b3495d89370a8632f33d",
+    "size": [
+      256,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/FallingRock.png",
+    "bytes": 1336,
+    "sha256": "449499be099e1dafc5e9c5ed707321e0a63e6b6648b0a4c5441cf83bccbae730",
+    "size": [
+      384,
+      32
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Fan.png",
+    "bytes": 542,
+    "sha256": "394880bb97307d922c1f00ec6db57e2d5ba02aafb2c7b33f45499e23d5488cc8",
+    "size": [
+      256,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Fire.png",
+    "bytes": 300,
+    "sha256": "fb35b884576dd95db09e5cd32a64cb77273adb8b8c8a6273f37d41a276bc6ae9",
+    "size": [
+      64,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/FireBox.png",
+    "bytes": 687,
+    "sha256": "a6647fd0ffd97141c21f5de3c4b2bcfd332e04368fa8dd3cd96c11a2fe1a75e0",
+    "size": [
+      208,
+      32
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Jumper.png",
+    "bytes": 703,
+    "sha256": "e783e244775986a56a03d79321bd1f7d4f1eb0762ef50bae48bd1a1079fd2813",
+    "size": [
+      192,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Matxich.png",
+    "bytes": 136,
+    "sha256": "2d8a53c7499de3361f8d994b6c8e195bf4800c8cf1a504148bb8967c660be181",
+    "size": [
+      4,
+      4
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Matxich2.png",
+    "bytes": 173,
+    "sha256": "3663520ff08c80740e8a58222575804246ac565dd9246b86abb4cfaa5a1ae625",
+    "size": [
+      6,
+      6
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Matxich3.png",
+    "bytes": 136,
+    "sha256": "bb7d148f4d3d55ec91eb239a3a5e32ee235c2748cd3f53af3a92e73ab28a8b02",
+    "size": [
+      4,
+      4
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Moving Platfrom_A.png",
+    "bytes": 464,
+    "sha256": "a666f540ce5f36fcac9b32b2da0fa5d24014bc04a18937b861b9a53a1aff2278",
+    "size": [
+      320,
+      8
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Moving Platfrom_C.png",
+    "bytes": 232,
+    "sha256": "3eca8d993a9294b26241738c25d80f6f5fe3a530fd8cb718492430235b049efd",
+    "size": [
+      48,
+      8
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Moving Platfrom_D.png",
+    "bytes": 230,
+    "sha256": "1f218142e2dad52a3178927f34cf52a7378f74892b09064e7a940df588386bb8",
+    "size": [
+      48,
+      8
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Moving Platfrom_G.png",
+    "bytes": 325,
+    "sha256": "e0d2c41bfa62424d71bc2b028db21ece1f2b8b158a66e7b503f580b600c9e35f",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Moving Platfrom_H.png",
+    "bytes": 284,
+    "sha256": "3acf2d4e91d8d8a412712897726c48ce4939ff2516a4430dcd0418010d62dd34",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/All_Rocket.png",
+    "bytes": 30191,
+    "sha256": "3402642928099e09093bed9dbc9aa8cd015ed68f7dfc10b57970bbe2ec761994",
+    "size": [
+      384,
+      240
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_000.png",
+    "bytes": 386,
+    "sha256": "6e3e0d160818780019417d86f9cf97ea5ec7c5e6ae5f6dcef38808cd46a012f5",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_001.png",
+    "bytes": 396,
+    "sha256": "ab4ed1832c397625cf2247cc47e97021a5acee005fd1808e4eaf230b310510e2",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_002.png",
+    "bytes": 460,
+    "sha256": "c737cc8c869b39e352f01e406c70e580a71cacfa7402fddb0ac9d676ea32d963",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_003.png",
+    "bytes": 398,
+    "sha256": "61335314bd380b7384b2fbd24aacec21e7c7916d8b67e5979e832df6de91db8c",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_004.png",
+    "bytes": 382,
+    "sha256": "04f361386badbe62ba5719d4877955d1a340df10920cdf78096262432e49f3ce",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_005.png",
+    "bytes": 386,
+    "sha256": "ff629bda876b75b8424c755e47dba653d8d05b1e38289c03f831a1c09cd5d9d0",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_006.png",
+    "bytes": 442,
+    "sha256": "b47b9ff8cd3b4baa5d0505321d0d04f9c3f070eb2b90b7ff3f237732d480431d",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_007.png",
+    "bytes": 392,
+    "sha256": "55319ddd65b3edcf743964aac4ce7042a3ad7dbd44cf7dc6fe5f3bbad23d2a3c",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_008.png",
+    "bytes": 401,
+    "sha256": "6fb2a8ea7a5ad22669d594f5f2dc1ebbf8c3d45eae16b48ce369ea4624ebe77b",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_009.png",
+    "bytes": 398,
+    "sha256": "18907dafaa5780c454f1bcea7083cb9a859d6a00d33bc1df183d25509ad246f7",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_010.png",
+    "bytes": 451,
+    "sha256": "32809ed404116093d25523a435a1ee64c45273ca159823113e1726ffd404730c",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_011.png",
+    "bytes": 403,
+    "sha256": "c8cd13c809a356f4de612317ea80e1e7249bf1c8d87b98b78ec899c34fa57f49",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_012.png",
+    "bytes": 433,
+    "sha256": "f8ee1019658a1c6abeb8218554dc77565c7629725e2e831e888162ca8073edb1",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_013.png",
+    "bytes": 521,
+    "sha256": "5c2e8ebb638334b60650a1af68f16b53cca85c07920d69d844b88eda132b410b",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_014.png",
+    "bytes": 505,
+    "sha256": "c8fb54ce3d28b79f24a202395bd3729da7dd65a437b21c67a93a017ece820686",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_015.png",
+    "bytes": 502,
+    "sha256": "df890967f93e00acded5fcf2e615fe6ec53e40a3bbb4c33bdca25f943bfea13b",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_016.png",
+    "bytes": 427,
+    "sha256": "ea5878488913c5b449ac8d2c0a9b1fe07fbad46007f7531457f4724364152209",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_017.png",
+    "bytes": 510,
+    "sha256": "76e8624acdb1f281d87a70d86bd63ad1aa60cf2f4dc3b8328129c4101d5e6f78",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_018.png",
+    "bytes": 497,
+    "sha256": "67874f4a9187ee93e1a93af80f3dfabbc358c7f2c8525359826bd37f0f05a0b1",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_019.png",
+    "bytes": 490,
+    "sha256": "1e12ad3270d0b7528642cd045a213c5dd9e8e466d544c92b3ab183cbae77cf91",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_020.png",
+    "bytes": 449,
+    "sha256": "2bf05fa4631bf6f77513dd47350a668877b7d446fba82bf87b2e5d1f22f5523b",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_021.png",
+    "bytes": 532,
+    "sha256": "a09c2822e94fcc8e2ccfd5fc907d3091f55739b1d76aa47abfdad22a7161be72",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_022.png",
+    "bytes": 503,
+    "sha256": "657cf3d88827ef161ec01572728c66a4035deb911596f8d553564893cee5366f",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_023.png",
+    "bytes": 514,
+    "sha256": "65f9458b43398972a6dc732a91534d96d30d08380ccab1b52fe03715c3ed85f0",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_024.png",
+    "bytes": 492,
+    "sha256": "fe97c2ea9dba2c860c365016351a4827408311b2ee00d24880f88e9ff624cdaa",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_025.png",
+    "bytes": 542,
+    "sha256": "8edaf120cb8e7a986349d341e317f61a16b829ed4980b2dd9ee14f26f052a3ef",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_026.png",
+    "bytes": 556,
+    "sha256": "2b7a0d6502382d727b46b344146750ca79a0a88bf4f6d1d556505e71ada544db",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_027.png",
+    "bytes": 484,
+    "sha256": "7419252caea37cff0de805b22e4034ce3e41dbad9da5ff9fad5235750d21353b",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_028.png",
+    "bytes": 489,
+    "sha256": "35cad66a64936ab7dad7f4040a1d33a8b3e416c3d26122b78d4702edb6409528",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_029.png",
+    "bytes": 519,
+    "sha256": "605e594a4022d21127c742e247cd7707aaa335f2a90c89d2af7212bc9ca50ce6",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_030.png",
+    "bytes": 545,
+    "sha256": "a40fe9805351a7d12196fc3f372de134b127a092613139049ab1ab36ac4450bd",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_031.png",
+    "bytes": 478,
+    "sha256": "e2549749cecde88c5ccce932f700ad08045c8a504077aacc31e25785e39c25eb",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_032.png",
+    "bytes": 504,
+    "sha256": "c2999b2d6420a0e893e9d6c747d8a55efd24454e7dfcca1304f0646406650d6f",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_033.png",
+    "bytes": 548,
+    "sha256": "1c1859d58765c40da9e1eb5ba8358ca192d731319626f5818962ec0497bb1545",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_034.png",
+    "bytes": 628,
+    "sha256": "cdde71a36eb202063829d6b0a01df80d3d5d9464bd9b9a846c1f52e12582d411",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_035.png",
+    "bytes": 493,
+    "sha256": "537141477ec36e89e8d6e67ac4d489a5798c83521614a485d58fe37d3750d5b1",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_036.png",
+    "bytes": 519,
+    "sha256": "26e823609aac001cd85f2fb06d468ae6c18c7d022066eccd6ac52a2e6412a7d7",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_037.png",
+    "bytes": 533,
+    "sha256": "8ba22d5d4b49590e950b63409274de5953fdf20959b8e660035e98f262794ac2",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_038.png",
+    "bytes": 491,
+    "sha256": "c0b39d05b963ab8779694bcf56d4049fe5b9787edbe6805c02e89d0f2868f771",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_039.png",
+    "bytes": 615,
+    "sha256": "3a29ddfee1115291d4859c210455c3d3455151bef311cddb86404ed612598968",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_040.png",
+    "bytes": 511,
+    "sha256": "84ef6324bdedbe457f8676e8e851d0c38fc3e87620bcad319459c0a6a1fb4ca7",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_041.png",
+    "bytes": 522,
+    "sha256": "c5de8c7b33d7ca3a540d40f7923fa85b7b3729af0cb57d78517fc5c56b5bcd1c",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_042.png",
+    "bytes": 468,
+    "sha256": "e519e7e39e6acf381105faca044d99ca2963101922957ee703dd8cda74138177",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_043.png",
+    "bytes": 606,
+    "sha256": "403736d62aba5c59fe397f7b4913baaec1fb3d5e835af755730151828c761fc5",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_044.png",
+    "bytes": 530,
+    "sha256": "a9133b7b4e92dc0c38402ad472fb027d3f6b79b7f2d0983f792b77937cd2b216",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_045.png",
+    "bytes": 532,
+    "sha256": "9802ff016b3a43996cdda3610f0eee209ee6f7ef86f4b596831ffabb3b7aec93",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_046.png",
+    "bytes": 491,
+    "sha256": "1d92e00bd7899ee2a141be31c25c67d3d5809cd12ec86d7b1577673dafa77de8",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_047.png",
+    "bytes": 614,
+    "sha256": "c0eca4966f5dba27e78503902c1b1d9014f63d5c46623129d6e5b288d4533483",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_048.png",
+    "bytes": 402,
+    "sha256": "03ae470de6bf82a582daa9d01d82d4e56d546dbece13de882431abd17c43ec85",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_049.png",
+    "bytes": 497,
+    "sha256": "3bc6fb32dd75dc14b18e866c9e9629c12013281512f4253b02d7ad94c1200e82",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_050.png",
+    "bytes": 395,
+    "sha256": "766d04cf4199604d97903ddac1ad9e760550eb52767f11116421b100edcffe40",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_051.png",
+    "bytes": 513,
+    "sha256": "6f0ea742a818a7e41728e9e5f4017162bf59e183b5df843505bd7cdf16b4b782",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_052.png",
+    "bytes": 418,
+    "sha256": "dd958b159e09362563da976709d1fb4e3e588bbc7c5e197832adc1c20813c001",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_053.png",
+    "bytes": 528,
+    "sha256": "e89f5b39d5310fd46117d13b640803b253292f6bcbdd867adcda8b45d3960896",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_054.png",
+    "bytes": 386,
+    "sha256": "d5718a627a38bcb4e0e633da71c9716881e4c99e672a0b00669dced278cde38e",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_055.png",
+    "bytes": 395,
+    "sha256": "5b9c7579d440d1e2d8589e8209ae05d7947286f9258d2434c6ec872af3f2130d",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_056.png",
+    "bytes": 446,
+    "sha256": "a24eb789b6a9661f13d943a4b224b552ea37981b0705f6760fc5f082ee0662ed",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_057.png",
+    "bytes": 403,
+    "sha256": "2c92864a7e2c4ea55e84c4a99a1fb6ee604e18a6d741613ff453d03aaefda5bf",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_058.png",
+    "bytes": 379,
+    "sha256": "4d5638ebdbab24d44d1b55a6f8985af5270c545e4d5f1cb0ad831e0715516911",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_059.png",
+    "bytes": 396,
+    "sha256": "77a2f69a9088af5ac12a81397c38a3fb0f0bd11d3d069b7d6fbc1a6882c1cce2",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_060.png",
+    "bytes": 449,
+    "sha256": "cf363d6726c3cdb5ed523b281977241fa620caf1d6725abbfbca1015f51c76df",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_061.png",
+    "bytes": 400,
+    "sha256": "611b5d8ef3bd06ad6bc2aecb30d385783311fb04aa29fabbb56a2cbd7dd3e15f",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_062.png",
+    "bytes": 390,
+    "sha256": "9fabe171838c932b788922e4f81094e73711d6bd1e979efdc7a97545871797e4",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_063.png",
+    "bytes": 393,
+    "sha256": "5245e9b059cde4e1a479bbb3cfcb5caa55fb096179e1cd1454f766665af04bf4",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_064.png",
+    "bytes": 458,
+    "sha256": "283d2e78cd1883a1bad3222a2fb6d3cc53d074dc4205f726412d9d30cb6386a3",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_065.png",
+    "bytes": 429,
+    "sha256": "61bc8af6bf0a5ba2bcbe84bc1afe52a8ca92f5975c93dbc5b81ac577a2531cfb",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_066.png",
+    "bytes": 437,
+    "sha256": "cfbbb1544fa4649f532d9c37b88b9b7640ca9ba07c8b3d10850020ca1a2a2f66",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_067.png",
+    "bytes": 529,
+    "sha256": "4325252b42d3f9c257663eb14a2264c263482e0c655458b06e12b536d57885bf",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_068.png",
+    "bytes": 488,
+    "sha256": "ffff276fe07ab457fc797382c173ba4701d030f83cf0b42be9473a5183c7168c",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_069.png",
+    "bytes": 508,
+    "sha256": "1610c1794ba7d42fa8789cf8793e297ec75539e72f44445fdc0a5e0a3cd3f594",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_070.png",
+    "bytes": 439,
+    "sha256": "e51236ed013a67374e0f68a2d2398ac3be6b2bd4792bf09d5b736f42d2b0e927",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_071.png",
+    "bytes": 518,
+    "sha256": "48492b0fd22ed918e4d291df836d473a632297d37bb310448bc66113511438ab",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_072.png",
+    "bytes": 503,
+    "sha256": "f1ed07f4b48e6b08d0b3e83aa4c565be2a1f266924e40717239415ed38dc7727",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_073.png",
+    "bytes": 508,
+    "sha256": "ef5f95dfbcb234a8f3ac8b7ebadf0835bddb06aa87d5d53eea1360f2976a0f8a",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_074.png",
+    "bytes": 430,
+    "sha256": "4563abe15aa4ce21c2c86fa5442d65d24e73ba99ba1135ad8b18b0e138a52cef",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_075.png",
+    "bytes": 512,
+    "sha256": "d95224104fb2b778a739a4bcf117151d83e03997136b39914d75c56591390b92",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_076.png",
+    "bytes": 483,
+    "sha256": "7d57317c9d917dba17767fd4447317d88eb4f16467ea4c24beb52a2f412c8477",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_077.png",
+    "bytes": 496,
+    "sha256": "016ef5b13fe518cbd1e51b966132efca38c8b92f9a2c5981440cc442be48d410",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_078.png",
+    "bytes": 498,
+    "sha256": "528601070ec2a92e1035a576a6c1079fcc21242ccd885484ab3785702f0e20e8",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_079.png",
+    "bytes": 545,
+    "sha256": "b0241071081869d188d99e60703b3760af5afb27814c65ebda1bbd0b9aff4ad9",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_080.png",
+    "bytes": 587,
+    "sha256": "c4749dcd954e8d0126b58ffde8e12cdf0b865fcd14e6e480f91c004625c2db5a",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_081.png",
+    "bytes": 489,
+    "sha256": "502f127033b43207ae8b6eebe09abe9cdb3cf5a816a9d937b4f1a81c1823ba5e",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_082.png",
+    "bytes": 507,
+    "sha256": "e0cc21d0175d00e401115dfe3f9d75dfcdbf7dc65da5bab3bb289de9640a1f91",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_083.png",
+    "bytes": 545,
+    "sha256": "518e6da0c7760e6dab692807e49e367648b3da17b9e76e50ed3a8d8100899275",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_084.png",
+    "bytes": 565,
+    "sha256": "9fbcb469ba9321086124e428882fb9569c6447061e02d98c3f5884a663101be1",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_085.png",
+    "bytes": 490,
+    "sha256": "b6d5aacee3c1598257ed95b5ce338ea7f6c78544125c487d549bfec68d11a133",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_086.png",
+    "bytes": 502,
+    "sha256": "521f65b94bab00ff9a634de8cb19056bce11c2498cf680bd440fd164d2b8e0a9",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_087.png",
+    "bytes": 532,
+    "sha256": "eafa8a5cd9834a607d11b370d0597b3028a3e292bfac97136ebb40b04c6f4b06",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_088.png",
+    "bytes": 572,
+    "sha256": "16a62d5af792a9949be5ec8e7dadbfb628881893a8e05d3f3aca2f87988e0667",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_089.png",
+    "bytes": 491,
+    "sha256": "732834ac0f7c585469b68b3b3926189c8f632216a24606d0f7a6332f9b457624",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_090.png",
+    "bytes": 522,
+    "sha256": "aa29fb5352d7a3320637c07b311e2382dc9cfd52368eecf1bcb8b3236cfa0de1",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_091.png",
+    "bytes": 522,
+    "sha256": "60f4855ae33b81f810834e3d69737999c686b5cf94087169c1deb96b476c4886",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_092.png",
+    "bytes": 486,
+    "sha256": "721e5ccfb2c3cc23832f55d82c66054e434d12c796e8b7eaef5e8c3fbf1ea98e",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_093.png",
+    "bytes": 614,
+    "sha256": "a9b117c6a29f06e58010baf61d87f4784985241b038265098ac9b2b0bf7f8889",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_094.png",
+    "bytes": 519,
+    "sha256": "bbb29bac9ee529530b0cadd5baa96651332b9ae193c39211235d1599c9890a30",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_095.png",
+    "bytes": 522,
+    "sha256": "13c4ad0f9485d8b0aa15d166c5601d91c5fdee9f17a2b98f4873a21f99d79560",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_096.png",
+    "bytes": 484,
+    "sha256": "2e716e553e09e95752e78d011a6e55f146b350b6679d1c0d65633408669ff111",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_097.png",
+    "bytes": 617,
+    "sha256": "00f93b415c12d1b555bd369e473c57fb032fcce4ddacb4dcd259660a9fcafe55",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_098.png",
+    "bytes": 512,
+    "sha256": "ccde0c0639ccf725893ef834cb99f8207d05f3e4676be51f1ab3ae84b449e9d4",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_099.png",
+    "bytes": 511,
+    "sha256": "cf0737d53c47a557571f5dff74a18edc79545568906cc461e87aa8c7ccef49da",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_100.png",
+    "bytes": 471,
+    "sha256": "04ccd52fec9ac3f9da31e1d29a27a151339ca7feb81370f19143522330c6fc24",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_101.png",
+    "bytes": 600,
+    "sha256": "9f2256002521439e5bcdfe29b3fc5e2b735625364b1cbc821e053dc38a6af65c",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_102.png",
+    "bytes": 410,
+    "sha256": "6387801bee44010bb5561a747a0db10eba1f961f08b52437a0d37f7d44bdda6e",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_103.png",
+    "bytes": 499,
+    "sha256": "c06989a9470af4127fddc176f7fc5a07abaadcdebfb9826d2e68b4c71eb266e1",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_104.png",
+    "bytes": 396,
+    "sha256": "f67b6a6431ee45494d93e46530aac94e42f08ffbe41052193bec3843fe13ad5a",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_105.png",
+    "bytes": 498,
+    "sha256": "5e3fdd9895868ba0800b4407b106e0e134b459c1ceecbc36e9d3f3fefc10986d",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_106.png",
+    "bytes": 396,
+    "sha256": "e12143caa04fad18b58ace7d705404df1264196bffd0ca0b9db4cf5118fe3e73",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_107.png",
+    "bytes": 508,
+    "sha256": "2e8a4ecb7215be8fb7405968972ea6ecad6b546573074d6ff8aeb310eb1dda87",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_108.png",
+    "bytes": 391,
+    "sha256": "90247483c12b8020605aee9db9e074a38c1d143dd9013a8e6135de6c14dbbbd8",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_109.png",
+    "bytes": 358,
+    "sha256": "1669f69ce447bc487154befc0eacf0ca378c3b3bd4f6adb8a49d728d61d81e89",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_110.png",
+    "bytes": 420,
+    "sha256": "8c51dea31e6c5721c8c3e3fa3b8ed62e3e53ef3506efad06402b001f27a3abc9",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_111.png",
+    "bytes": 413,
+    "sha256": "89628d756fdc4b9da92fa17d427c59172aa7977a0aa595efdbb773de415aed8c",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_112.png",
+    "bytes": 366,
+    "sha256": "7b4e24d7f7bbe49ebfe60eadaa506d4dff98e59e5b665b0c8b6265fc4b39a545",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_113.png",
+    "bytes": 381,
+    "sha256": "aebda000d1723472068ce6c501cdf953fd857f3dfeb04fd756c97113c1d04aea",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_114.png",
+    "bytes": 419,
+    "sha256": "639bbdb392c731f2f121eb4ca1e71e05b34d705e0a2846e657cc618ea990437b",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_115.png",
+    "bytes": 382,
+    "sha256": "f3fbde9f9952ba3ad5ba9a58514909bae66811bbc6e0a9e834aef228e71d4496",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_116.png",
+    "bytes": 390,
+    "sha256": "4ac6310ae1f357406358d7e0c3d09c6643e8df5645af0bdfe5b2215e8e4a339e",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_117.png",
+    "bytes": 394,
+    "sha256": "8be3802b58e433634f983cff813513ff1ea5f2139fbde436a029553afc31fdf1",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_118.png",
+    "bytes": 442,
+    "sha256": "83739654669644343556fb00a8d383dba718719f7756653e09dcd24be6e8d1f1",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_119.png",
+    "bytes": 401,
+    "sha256": "082e209a945b29cb0840a3e435af89dbe41980f75b135e45043b6280690f6621",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_120.png",
+    "bytes": 402,
+    "sha256": "4b6e6e391c949a9b8d5a007efc1ce9e515b041d9472d750e5070c57c9ae6ff29",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_121.png",
+    "bytes": 482,
+    "sha256": "0c9530b7db1390280430627c5a0768a9a1c1b3d7d162631b5bdff14107a8f712",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_122.png",
+    "bytes": 479,
+    "sha256": "3d6cecb5723f5dc1516908772ff3eefae089032057f5244462b9cbe76574cd78",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_123.png",
+    "bytes": 484,
+    "sha256": "c1b941b7da44e18b14847bc44e38bdade6e7561bf65e093cb9b15f6d645f97d3",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_124.png",
+    "bytes": 419,
+    "sha256": "926397af896e832af01c579c7a884f765d123aea5af410f20bf46d79a824fe93",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_125.png",
+    "bytes": 495,
+    "sha256": "4c83459a410008087617cf47bbdf4fd79e77e6bc19dc66b88aa14f8685f72693",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_126.png",
+    "bytes": 477,
+    "sha256": "c86ef57e843acd54462b51efdfb0cc03ad5938992b2a810c19da88c9a63775cc",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_127.png",
+    "bytes": 454,
+    "sha256": "cdebb259bd3bd08f397a1ccd37946fa631f724403a2fe1f9749ace8deaa89c44",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_128.png",
+    "bytes": 433,
+    "sha256": "c6c864141c9eac5eb1b36f243aa60794b56c8344842d1e9bce20512fb5af222d",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_129.png",
+    "bytes": 515,
+    "sha256": "819f727397613c84bb4c64140c0a25f1bb776d7c0747089eada977d9d94bdbd4",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_130.png",
+    "bytes": 502,
+    "sha256": "bb50c0591d7c16a1aa2b3ffe1a2fd11fdd14a973566093cee044b89a7049187c",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_131.png",
+    "bytes": 511,
+    "sha256": "cfb4ce3d313800412a2f0e511cd63b44a46ede161d51488fc31bba1deba8b4cb",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_132.png",
+    "bytes": 553,
+    "sha256": "34cd2288957d81ff1f5e0ae1f29c295134288ecddf5fe890c8af8d598d3d95d8",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_133.png",
+    "bytes": 470,
+    "sha256": "6eb13ce64d7476c0c4c941c45e12467a3f65c31a7b47e4a5ceace286708bc867",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_134.png",
+    "bytes": 443,
+    "sha256": "4ec5d7a5e9f26de39990135ec1b52fe8c29732fba761566affe7930d7c44e1da",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_135.png",
+    "bytes": 520,
+    "sha256": "bb38b52066baf222e002a1d3265c7b6bb7b56626fdcff2d4e0457359ca709870",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_136.png",
+    "bytes": 459,
+    "sha256": "0c0f3b68c3528405dfd3442d5bdfee7b37e70d4547d0e6a4a7a0c06203fe155d",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_137.png",
+    "bytes": 509,
+    "sha256": "31c4316d4c5460b3112897b0ddfc7d2be0c43cea097a6d1f3e9a1e743e6dade5",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_138.png",
+    "bytes": 547,
+    "sha256": "0e323f0af904c7fa980f247fd1cc8d6dc69a9578a7160d2d18f11d8ccbd6edee",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_139.png",
+    "bytes": 457,
+    "sha256": "d9701a4d724cdd97e2446a2d21b4287dee009219b7d6b8ae51aed2b956ba348d",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_140.png",
+    "bytes": 506,
+    "sha256": "8464336ab1696d6d0b83baae7f63fb2901791c8f3b0ebd8151bd3f7d3c8100a8",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_141.png",
+    "bytes": 541,
+    "sha256": "763e78c48f8cf9a600b1f97ef52c4e412cb86c6faf9a6edb720a5eb57daca877",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_142.png",
+    "bytes": 562,
+    "sha256": "b87517feea696923eb16fe8657384d76aa6619d2b5aa108d9bcb251b26a99d64",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_143.png",
+    "bytes": 485,
+    "sha256": "0c0a976b1a053c1e2cbdec22cc4711ae62dcbdde4fe584626e8b4c48d04fc0d3",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_144.png",
+    "bytes": 488,
+    "sha256": "0d176cebbf9d7fea11cff796a551e950e6f5a968c4366fd729f315b6412bf78a",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_145.png",
+    "bytes": 482,
+    "sha256": "ec833253fef91bf32d518341f7d27d2572b4cedbb0d78fdac107889fdbbb7649",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_146.png",
+    "bytes": 469,
+    "sha256": "a58c22727e1f2b39acc70a9bccb8e0213c403b473bca63fdd33cbac3ed6bc152",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_147.png",
+    "bytes": 574,
+    "sha256": "463c0b6cc76e2089cd016263530dcdf02746a6f3695ff781036b68e5be31dc5e",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_148.png",
+    "bytes": 495,
+    "sha256": "508f97a40e1f513790140cc35729fe2b2d7fcbfb48837412335ac4966a3ad592",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_149.png",
+    "bytes": 474,
+    "sha256": "44ed6a71847f7f675e4d799aeab014f021ac48e31b57cc2439c8161d1e282cc3",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_150.png",
+    "bytes": 428,
+    "sha256": "7c2a760d1107695b92ac4120ad94927b8a32cfe0d386b7afecd35b4cdc7b529e",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_151.png",
+    "bytes": 582,
+    "sha256": "3f0ef522beb7f030ce76ee3cf9d51eb2f1ba90fd997f8212904dd943421efdbe",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_152.png",
+    "bytes": 519,
+    "sha256": "df6d3e331450fdeb2a828d3ec550e815b961b78dc074a47dc5f93ee0396ae52d",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_153.png",
+    "bytes": 521,
+    "sha256": "0eeadcc1e83456f7af145fe6e4f540c00eed038fdd17c6c95974d0975561e737",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_154.png",
+    "bytes": 488,
+    "sha256": "e1813bc136d09334ad51730e0a7a100c43d3ca829d00b007109bee86c36f4266",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_155.png",
+    "bytes": 612,
+    "sha256": "365bbccfaeb59a8c8f11aa3d624be65300067df1e205807076aaa9d97aa4ba02",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_156.png",
+    "bytes": 391,
+    "sha256": "39dc177c217f7c8843b520ca32838a34f269c751015e15cd940aa78cbb35a281",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_157.png",
+    "bytes": 465,
+    "sha256": "cccc5e2ef704b7d11e9085e41bf17a21c97a60f414b85d71ab53e16f1dc51c2f",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_158.png",
+    "bytes": 349,
+    "sha256": "363db43b5b6c7878469288ce965252aa4d3a2c87cddd0b0c739428fdc68db666",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_159.png",
+    "bytes": 476,
+    "sha256": "b6d93a3151586d256758a6926a35c62e4ad37d82b83b1e3c72a94264bac784e1",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_160.png",
+    "bytes": 403,
+    "sha256": "4d8a66a2ecf8d3dccaae9eb2593697ce2fbd96d5425ff5e62cf674a7bd5ce548",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet/Rocket_161.png",
+    "bytes": 515,
+    "sha256": "f722b8730a3063c044b0940dd24fe3f8f35e64812c5192ba0daa217313f829f0",
+    "size": [
+      32,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Rocket Bullet.zip",
+    "bytes": 129812,
+    "sha256": "b3c90bb356b27599265a2807756184d4b83bf9d7d340e9c906d5183f32f2a491"
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Shooter_Arrow_Trap.png",
+    "bytes": 511,
+    "sha256": "8fd07f08c68a4d07f25a8565bafc72ee76e77a867e622150facc7c4611b2d697",
+    "size": [
+      96,
+      16
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Spear.png",
+    "bytes": 1428,
+    "sha256": "8ef70235f771ef17d0ee8996e4db0744b99251debc8ce1d78077c669e4a5faee",
+    "size": [
+      192,
+      64
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/SpikeBall.png",
+    "bytes": 694,
+    "sha256": "b315ec5f839009dae8329ed31439629b2e1047b56facd9cf2ccfbb93a9295c35",
+    "size": [
+      42,
+      21
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Spike_B.png",
+    "bytes": 987,
+    "sha256": "884fc9a6300fbd0c28a7d561a4bf48907b9bf35c2e45b4cdb09720187a117a44",
+    "size": [
+      320,
+      32
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Suriken.png",
+    "bytes": 3258,
+    "sha256": "9bfaa0b734ed529b82f4ad4feead1a81ca79bf838aa1fb7775ba78651ba3262d",
+    "size": [
+      256,
+      32
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Trap_Spike.png",
+    "bytes": 1203,
+    "sha256": "6c8d402121d8f6fcd8d53c335836fc1b5e446ee65d327c22144a65a3c3140ffc",
+    "size": [
+      80,
+      32
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Trap_Spike_Run.png",
+    "bytes": 1768,
+    "sha256": "369b60bbb81f5326212c179075014c9b631a292124f94dce30ec754db70bcb7f",
+    "size": [
+      128,
+      128
+    ],
+    "frames": 1
+  },
+  {
+    "file": "assets/packs/TrapAndWeapon/Trap and Weapon/Wood.png",
+    "bytes": 217,
+    "sha256": "a525f583acd505934d73d8c4c463460b55696bc68dac1e3b4fef83fd9a966faa",
+    "size": [
+      16,
+      16
+    ],
+    "frames": 1
+  }
+]

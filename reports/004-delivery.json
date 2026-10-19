@@ -1,0 +1,32 @@
+{
+  "version": "0.3.0",
+  "checkedAt": "2026-10-07T03:13:31.855884+00:00",
+  "snapshot": "builds/0.3.0",
+  "sha256Checks": {
+    "source.zip": true,
+    "START_HERE.txt": true,
+    "game/index.html": true,
+    "game/index.js": true,
+    "game/style.css": true,
+    "game/assets.js": true
+  },
+  "sourceZipIntegrity": true,
+  "runtimeMatchesTestedSource": true,
+  "browser": "Chrome HTTP",
+  "url": "http://127.0.0.1:5173/builds/0.3.0/game/index.html",
+  "actualChecks": [
+    "selection screen",
+    "forest selection/start/overview",
+    "catacombs start/overview with real embedded sprites",
+    "no console errors or warnings"
+  ],
+  "screenshots": [
+    "004-delivery-menu.png",
+    "004-delivery-forest.png",
+    "004-delivery-catacombs.png"
+  ],
+  "fileProtocol": "Not tested: browser tool prohibits file navigation; no workaround attempted",
+  "previousBuildsPreserved": true,
+  "userAcceptance": "pending playtest",
+  "note": "Post-build verification report is external to immutable source.zip; bundled iteration links refer to this workspace report."
+}

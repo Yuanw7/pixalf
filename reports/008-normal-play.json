@@ -1,0 +1,50 @@
+[
+  {
+    "leader": 0,
+    "result": "won",
+    "seconds": 45.55091100000014,
+    "health": [
+      148,
+      113
+    ],
+    "spawns": 71,
+    "visitedStages": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "leader": 1,
+    "result": "won",
+    "seconds": 47.35094699999995,
+    "health": [
+      148,
+      193
+    ],
+    "spawns": 75,
+    "visitedStages": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "leader": 2,
+    "result": "won",
+    "seconds": 41.984173000000524,
+    "health": [
+      193,
+      135
+    ],
+    "spawns": 68,
+    "visitedStages": [
+      0,
+      1,
+      2,
+      3
+    ]
+  }
+]

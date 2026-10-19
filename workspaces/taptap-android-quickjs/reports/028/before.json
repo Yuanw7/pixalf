@@ -1,0 +1,193 @@
+[
+  {
+    "commands_avg": 334.716666666667,
+    "counters": {
+      "calls": {
+        "buildFlow": 5.0,
+        "draw": 181.0,
+        "drawTrials": 181.0,
+        "mechanisms": 180.0,
+        "navigate": 180.0,
+        "trial": 180.0,
+        "update": 180.0
+      },
+      "enemies": 4.0,
+      "fx": 0.0,
+      "particles": 0.0,
+      "remains": 0.0,
+      "spawnHistory": 0.0,
+      "times": {
+        "buildFlow": 3.0,
+        "draw": 71.0,
+        "drawTrials": 44.0,
+        "mechanisms": 1.0,
+        "navigate": 1.0,
+        "trial": 2.0,
+        "update": 12.0
+      }
+    },
+    "draw_process_p95": 0,
+    "gradient_cache": 0,
+    "json_bytes": 53093,
+    "scenario": {
+      "count": 4,
+      "name": "first_room_4",
+      "stage": 0,
+      "x": 400
+    },
+    "step_ms_median": 1.97,
+    "step_ms_p95": 2.111
+  },
+  {
+    "commands_avg": 334.016666666667,
+    "counters": {
+      "calls": {
+        "buildFlow": 5.0,
+        "draw": 181.0,
+        "drawTrials": 181.0,
+        "mechanisms": 180.0,
+        "navigate": 180.0,
+        "trial": 180.0,
+        "update": 180.0
+      },
+      "enemies": 3.0,
+      "fx": 0.0,
+      "particles": 0.0,
+      "remains": 1.0,
+      "spawnHistory": 0.0,
+      "times": {
+        "buildFlow": 6.0,
+        "draw": 73.0,
+        "drawTrials": 34.0,
+        "mechanisms": 0.0,
+        "navigate": 0.0,
+        "trial": 4.0,
+        "update": 31.0
+      }
+    },
+    "draw_process_p95": 0,
+    "gradient_cache": 0,
+    "json_bytes": 62265,
+    "scenario": {
+      "count": 4,
+      "name": "bridge_start_4",
+      "x": 1900
+    },
+    "step_ms_median": 2.226,
+    "step_ms_p95": 2.615
+  },
+  {
+    "commands_avg": 325.016666666667,
+    "counters": {
+      "calls": {
+        "buildFlow": 5.0,
+        "draw": 181.0,
+        "drawTrials": 181.0,
+        "mechanisms": 180.0,
+        "navigate": 180.0,
+        "trial": 180.0,
+        "update": 180.0
+      },
+      "enemies": 3.0,
+      "fx": 0.0,
+      "particles": 0.0,
+      "remains": 1.0,
+      "spawnHistory": 0.0,
+      "times": {
+        "buildFlow": 5.0,
+        "draw": 79.0,
+        "drawTrials": 44.0,
+        "mechanisms": 2.0,
+        "navigate": 0.0,
+        "trial": 4.0,
+        "update": 34.0
+      }
+    },
+    "draw_process_p95": 0,
+    "gradient_cache": 0,
+    "json_bytes": 60948,
+    "scenario": {
+      "count": 4,
+      "name": "bridge_middle_4",
+      "x": 1100
+    },
+    "step_ms_median": 2.093,
+    "step_ms_p95": 2.296
+  },
+  {
+    "commands_avg": 326.016666666667,
+    "counters": {
+      "calls": {
+        "buildFlow": 5.0,
+        "draw": 181.0,
+        "drawTrials": 181.0,
+        "mechanisms": 180.0,
+        "navigate": 180.0,
+        "trial": 180.0,
+        "update": 180.0
+      },
+      "enemies": 3.0,
+      "fx": 0.0,
+      "particles": 0.0,
+      "remains": 1.0,
+      "spawnHistory": 0.0,
+      "times": {
+        "buildFlow": 3.0,
+        "draw": 68.0,
+        "drawTrials": 42.0,
+        "mechanisms": 1.0,
+        "navigate": 0.0,
+        "trial": 4.0,
+        "update": 25.0
+      }
+    },
+    "draw_process_p95": 0,
+    "gradient_cache": 0,
+    "json_bytes": 59946,
+    "scenario": {
+      "count": 4,
+      "name": "bridge_end_4",
+      "x": 400
+    },
+    "step_ms_median": 1.968,
+    "step_ms_p95": 2.218
+  },
+  {
+    "commands_avg": 406.016666666667,
+    "counters": {
+      "calls": {
+        "buildFlow": 5.0,
+        "draw": 181.0,
+        "drawTrials": 181.0,
+        "mechanisms": 180.0,
+        "navigate": 14580.0,
+        "trial": 180.0,
+        "update": 180.0
+      },
+      "enemies": 83.0,
+      "fx": 0.0,
+      "particles": 0.0,
+      "remains": 1.0,
+      "spawnHistory": 0.0,
+      "times": {
+        "buildFlow": 5.0,
+        "draw": 101.0,
+        "drawTrials": 52.0,
+        "mechanisms": 6.0,
+        "navigate": 1354.0,
+        "trial": 9.0,
+        "update": 1432.0
+      }
+    },
+    "draw_process_p95": 0,
+    "gradient_cache": 0,
+    "json_bytes": 97702,
+    "scenario": {
+      "count": 84,
+      "name": "bridge_end_84",
+      "x": 400
+    },
+    "step_ms_median": 11.15,
+    "step_ms_p95": 13.498
+  }
+]

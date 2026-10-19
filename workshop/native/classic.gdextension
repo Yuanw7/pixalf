@@ -1,0 +1,6 @@
+[configuration]
+entry_symbol = "classic_init"
+compatibility_minimum = "4.2"
+reloadable = false
+[libraries]
+macos = "res://native/libclassic.dylib"

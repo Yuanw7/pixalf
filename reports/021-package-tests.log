@@ -1,0 +1,62 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+ROOM 1 -> 2 position=(48.0, 336.0)
+ROOM 2 -> 1 position=(528.0, 240.0)
+ROOM 1 -> 2 position=(48.0, 336.0)
+ROOM 2 -> 1 position=(528.0, 240.0)
+ROOM 1 -> 2 position=(48.0, 240.0)
+ROOM 2 -> 1 position=(528.0, 240.0)
+ROOM 1 -> 2 position=(48.0, 240.0)
+ROOM 2 -> 1 position=(528.0, 240.0)
+ROOM 1 -> 2 position=(48.0, 144.0)
+ROOM 2 -> 1 position=(528.0, 240.0)
+ROOM 1 -> 2 position=(48.0, 144.0)
+ROOM 2 -> 1 position=(528.0, 240.0)
+ROOM 1 -> 2 position=(400.0, 48.0)
+ROOM 2 -> 1 position=(304.0, 400.0)
+ROOM 1 -> 2 position=(400.0, 48.0)
+ROOM 2 -> 1 position=(304.0, 400.0)
+ROOM 1 -> 2 position=(304.0, 48.0)
+ROOM 2 -> 1 position=(304.0, 400.0)
+ROOM 1 -> 2 position=(304.0, 48.0)
+ROOM 2 -> 1 position=(304.0, 400.0)
+ROOM 1 -> 2 position=(208.0, 48.0)
+ROOM 2 -> 1 position=(304.0, 400.0)
+ROOM 1 -> 2 position=(208.0, 48.0)
+ROOM 2 -> 1 position=(304.0, 400.0)
+ROOM 1 -> 2 position=(464.0, 336.0)
+ROOM 2 -> 1 position=(48.0, 240.0)
+ROOM 1 -> 2 position=(464.0, 336.0)
+ROOM 2 -> 1 position=(48.0, 240.0)
+ROOM 1 -> 2 position=(464.0, 240.0)
+ROOM 2 -> 1 position=(48.0, 240.0)
+ROOM 1 -> 2 position=(464.0, 240.0)
+ROOM 2 -> 1 position=(48.0, 240.0)
+ROOM 1 -> 2 position=(464.0, 144.0)
+ROOM 2 -> 1 position=(48.0, 240.0)
+ROOM 1 -> 2 position=(464.0, 144.0)
+ROOM 2 -> 1 position=(48.0, 240.0)
+ROOM 1 -> 2 position=(400.0, 336.0)
+ROOM 2 -> 1 position=(304.0, 48.0)
+ROOM 1 -> 2 position=(400.0, 336.0)
+ROOM 2 -> 1 position=(304.0, 48.0)
+ROOM 1 -> 2 position=(304.0, 336.0)
+ROOM 2 -> 1 position=(304.0, 48.0)
+ROOM 1 -> 2 position=(304.0, 336.0)
+ROOM 2 -> 1 position=(304.0, 48.0)
+ROOM 1 -> 2 position=(208.0, 336.0)
+ROOM 2 -> 1 position=(304.0, 48.0)
+ROOM 1 -> 2 position=(208.0, 336.0)
+ROOM 2 -> 1 position=(304.0, 48.0)
+ROOM 1 -> 2 position=(48.0, 208.0)
+ROOM 2 -> 3 position=(400.0, 48.0)
+ROOM 3 -> 4 position=(528.0, 272.0)
+PLAYTHROUGH seconds=17.2 visited=["r1", "r2", "r3", "r4"] alive=true won=true
+BENCH four-room validation avg_ms=11.27
+BENCH 32 rooms / 30x24 validation_ms=200.36
+018 EXTRA 52 checks
+019 compatible combinations=36
+019 CHARACTER TESTS 846 checks / PASS
+020 VISUAL ROOM TESTS 73 checks / PASS
+021 CLASSIC INTEGRATION TESTS 17 checks / PASS
+WORKSHOP 021 TESTS 1225 checks / PASS
